@@ -53,9 +53,6 @@ CV：
 
 2. Ask Me Anything session with a Kaggle Grandmaster Vladimir I. Iglovikov 
    PDF：https://pan.baidu.com/s/1XkFwko_YrI5TfjjIai7ONQ\
-
-大佬的Git：
-1. 
    
    
 PS：
