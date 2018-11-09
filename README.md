@@ -1,4 +1,4 @@
-Data competition Top Solution 数据竞赛top解决方案开源整理
+Data competition Top Solution 数据竞赛Top解决方案开源整理
 ---------
 未完待续
 持续更新
