@@ -12,29 +12,29 @@ Kaggle top方案整理：https://github.com/EliotAndres/kaggle-past-solutions
 
 纯数据竞赛：
 ------
-1. 2018科大讯飞AI营销算法大赛
+1. 2018科大讯飞AI营销算法大赛\
    Rank1：https://zhuanlan.zhihu.com/p/47807544
    
-2. 2018JDATA 用户购买时间预测 
+2. 2018JDATA 用户购买时间预测\ 
    Rank9：https://zhuanlan.zhihu.com/p/45141799
    
-3. 2018 DF风机叶片开裂预警
+3. 2018 DF风机叶片开裂预警\
    Rank2：https://github.com/SY575/DF-Early-warning-of-the-wind-power-system
    
-4. 2018 DF光伏发电量预测
+4. 2018 DF光伏发电量预测\
    Rank1：https://zhuanlan.zhihu.com/p/44755488?utm_source=qq&utm_medium=social&utm_oi=623925402599559168
           https://mp.weixin.qq.com/s/Yix0xVp2SiqaAcuS6Q049g
           
-5. AI全球挑战者大赛-违约用户风险预测
+5. AI全球挑战者大赛-违约用户风险预测\
    Rank1：https://github.com/chenkkkk/User-loan-risk-prediction
    
-6. 2016融360-用户贷款风险预测
+6. 2016融360-用户贷款风险预测\
    Rank7：https://github.com/hczheng/Rong360
    
    
 NLP：
 ------
-1. 智能客服问题相似度算法设计——第三届魔镜杯大赛
+1. 智能客服问题相似度算法设计——第三届魔镜杯大赛\
    rank6 https://github.com/qrfaction/paipaidai
    
    rank12 https://www.jianshu.com/p/827dd447daf9
@@ -43,7 +43,7 @@ NLP：
 
 CV：
 -------
-1. Kaggle-TGS
+1. Kaggle-TGS\
    Rank56 https://github.com/Gary-Deeplearning/TGS-Salt
    
    
