@@ -1,12 +1,13 @@
 # Data-Competition-TopSolution
 Data competition Top Solution 数据竞赛top解决方案开源整理
-============
+---------
 未完待续
+持续更新
 欢迎大家一起参加
 
-QQ：240485545
-Email：smile.xuhc@gmail.com
 
+数据比赛资讯：https://github.com/iphysresearch/DataSciComp
+---------
 Kaggle top方案整理：https://github.com/EliotAndres/kaggle-past-solutions
 -------
 
@@ -52,4 +53,15 @@ CV：
 1. 介绍featexp 一个帮助理解特征的工具包 http://www.sohu.com/a/273552971_129720
 
 2. Ask Me Anything session with a Kaggle Grandmaster Vladimir I. Iglovikov 
-   PDF：https://pan.baidu.com/s/1XkFwko_YrI5TfjjIai7ONQ
+   PDF：https://pan.baidu.com/s/1XkFwko_YrI5TfjjIai7ONQ\
+
+大佬的Git：
+1. 
+   
+   
+PS：
+ --
+ 希望大家star，fork一下\
+ 本人只是一名普通的本科学生，精力有限，但尽力关注国内比赛并持续更新\
+ 联系方式：\
+      qq:240485545  Email:smile.xuhc@gmail.com
