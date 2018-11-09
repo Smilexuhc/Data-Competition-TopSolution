@@ -52,8 +52,14 @@ CV：
 1. 介绍featexp 一个帮助理解特征的工具包 http://www.sohu.com/a/273552971_129720
 
 2. Ask Me Anything session with a Kaggle Grandmaster Vladimir I. Iglovikov 
-   PDF：https://pan.baidu.com/s/1XkFwko_YrI5TfjjIai7ONQ\
-   
+   PDF：https://pan.baidu.com/s/1XkFwko_YrI5TfjjIai7ONQ
+
+大佬的Git：
+---------
+1. 植物 ：https://github.com/plantsgo
+2. wepon ：https://github.com/wepe
+3. Snake：https://github.com/luoda888
+4. Drop-out：https://github.com/drop-out
    
 PS：
  --
