@@ -70,7 +70,7 @@ Kaggle top方案整理：https://github.com/EliotAndres/kaggle-past-solutions
 11. 2016 ccf-客户用电异常\
    Rank4: https://github.com/AbnerYang/2016CCF-StateGrid 
    
-12.2016 ccf-搜狗的用户画像比赛\
+12. 2016 ccf-搜狗的用户画像比赛\
    Rank1: https://github.com/hengchao0248/ccf2016_sougou \
    Rank3: https://github.com/AbnerYang/2016CCF-SouGou \
    Rank5: https://github.com/dhdsjy/2016_CCFsougou \
@@ -78,11 +78,13 @@ Kaggle top方案整理：https://github.com/EliotAndres/kaggle-past-solutions
           https://github.com/prozhuchen/2016CCF-sougou \
           https://github.com/coderSkyChen/2016CCF_BDCI_Sougou 
           
-13.2016 ccf-联通的用户轨迹\
+13. 2016 ccf-联通的用户轨迹\
    RankX: https://github.com/xuguanggen/2016CCF-unicom 
-14.2016 ccf-Human or Robots\
+   
+14. 2016 ccf-Human or Robots\
    Rank6: https://github.com/pickou/ccf_human_or_robot 
-15.  菜鸟-需求预测与分仓规划\
+   
+15. 菜鸟-需求预测与分仓规划\
    Rank6:  https://github.com/wepe/CaiNiao-DemandForecast-StoragePlaning \
    Rank10: https://github.com/xing89qs/TianChi_CaiNiao_Season2 
    
@@ -121,7 +123,7 @@ CV：
 PS：
  --
  希望大家star，fork一下\
- 特别感谢金老师对整理比赛开源已做出的贡献,特别是在2016年的ccf大赛中\
+ 特别感谢金老师对整理比赛开源已做出的贡献,特别是在2016年的ccf大赛中
  
  团队联系方式：\
       Smile  qq:240485545  Email:smile.xuhc@gmail.com
