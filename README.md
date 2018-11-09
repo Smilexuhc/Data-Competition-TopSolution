@@ -15,7 +15,7 @@ Kaggle top方案整理：https://github.com/EliotAndres/kaggle-past-solutions
 1. 2018科大讯飞AI营销算法大赛\
    Rank1：https://zhuanlan.zhihu.com/p/47807544
    
-2. 2018JDATA 用户购买时间预测\ 
+2. 2018JDATA 用户购买时间预测\
    Rank9：https://zhuanlan.zhihu.com/p/45141799
    
 3. 2018 DF风机叶片开裂预警\
