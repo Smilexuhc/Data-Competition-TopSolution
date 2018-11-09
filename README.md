@@ -7,6 +7,7 @@ Data competition Top Solution 数据竞赛Top解决方案开源整理
 
 数据比赛资讯：https://github.com/iphysresearch/DataSciComp
 ---------
+ApacheCN 的kaggle资料链接：https://github.com/apachecn/kaggle
 Kaggle top方案整理：https://github.com/EliotAndres/kaggle-past-solutions
 -------
 
@@ -30,7 +31,27 @@ Kaggle top方案整理：https://github.com/EliotAndres/kaggle-past-solutions
    
 6. 2016融360-用户贷款风险预测\
    Rank7：https://github.com/hczheng/Rong360
-   
+7. 2016 CCF-020优惠券使用预测\
+   Rank1: https://github.com/wepe/O2O-Coupon-Usage-Forecast
+8. 2016 ccf-农产品价格预测\
+   Rank2: https://github.com/xing89qs/CCF_Product
+   Rank35: https://github.com/wqlin/ccf-price-prediction
+9. 2016 ccf-客户用电异常\
+   Rank4: https://github.com/AbnerYang/2016CCF-StateGrid
+10.2016 ccf-搜狗的用户画像比赛\
+   Rank1: https://github.com/hengchao0248/ccf2016_sougou
+   Rank3: https://github.com/AbnerYang/2016CCF-SouGou
+   Rank5: https://github.com/dhdsjy/2016_CCFsougou
+          https://github.com/dhdsjy/2016_CCFsougou2
+          https://github.com/prozhuchen/2016CCF-sougou
+          https://github.com/coderSkyChen/2016CCF_BDCI_Sougou
+11.2016 ccf-联通的用户轨迹
+   RankX: https://github.com/xuguanggen/2016CCF-unicom
+12.2016 ccf-Human or Robots
+   Rank6: https://github.com/pickou/ccf_human_or_robot
+13.  菜鸟-需求预测与分仓规划\
+   Rank6:  https://github.com/wepe/CaiNiao-DemandForecast-StoragePlaning
+   Rank10: https://github.com/xing89qs/TianChi_CaiNiao_Season2
    
 NLP：
 ------
@@ -60,10 +81,12 @@ CV：
 2. wepon ：https://github.com/wepe
 3. Snake：https://github.com/luoda888
 4. Drop-out：https://github.com/drop-out
+5. 金老师的知乎：https://zhuanlan.zhihu.com/jlbookworm
    
 PS：
  --
  希望大家star，fork一下\
+ 特别感谢金老师对整理比赛开源已做出的贡献,特别是在2016年的ccf大赛中\
  本人只是一名普通的本科学生，精力有限，但尽力关注国内比赛并持续更新\
  联系方式：\
       qq:240485545  Email:smile.xuhc@gmail.com
