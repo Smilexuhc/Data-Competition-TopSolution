@@ -15,41 +15,69 @@ Kaggle top方案整理：https://github.com/EliotAndres/kaggle-past-solutions
 ------
 1. 2018科大讯飞AI营销算法大赛\
    Rank1：https://zhuanlan.zhihu.com/p/47807544
-   
-2. 2018JDATA 用户购买时间预测\
+
+2. 2018 IJCAI 阿里妈妈搜索广告转化预测\
+   Rank1：https://github.com/plantsgo/ijcai-2018
+   Rank2：https://github.com/YouChouNoBB/ijcai-18-top2-single-mole-solution
+          https://blog.csdn.net/Bryan__/article/details/80600189
+   Rank3: https://github.com/luoda888/2018-IJCAI-top3
+   Rank8: https://github.com/fanfanda/ijcai_2018
+   Rank8: https://github.com/Gene20/IJCAI-18
+   Rank9（第一赛季）https://github.com/yuxiaowww/IJCAI-18-TIANCHI
+   Rank29: https://github.com/bettenW/IJCAI18_Tianchi_Rank29
+   Rank41: https://github.com/cmlaughing/IJCAI-18
+   Rank48: https://github.com/YunaQiu/IJCAI-18alimama
+   Rank53: https://github.com/altmanWang/IJCAI-18-CVR
+   Rank60: https://github.com/Chenyaorui/ijcai_2018
+   Rank81: https://github.com/wzp123456/IJCAI_18
+   Rank94: https://github.com/Yangtze121/-IJCAI-18-
+3. 2018腾讯广告算法大赛\
+   Rank3: https://github.com/DiligentPanda/Tencent_Ads_Algo_2018
+   rank6: https://github.com/nzc/tencent-contest
+   Rank7: https://github.com/guoday/Tencent2018_Lookalike_Rank7th
+   Rank9: https://github.com/ouwenjie03/tencent-ad-game
+   Rank10: https://github.com/keyunluo/Tencent2018_Lookalike_Rank10th
+   rank10（初赛）: https://github.com/ShawnyXiao/2018-Tencent-Lookalike
+   Rank11: https://github.com/liupengsay/2018-Tencent-social-advertising-algorithm-contest
+           https://my.oschina.net/xtzggbmkk/blog/1865680 
+   Rank26: https://github.com/zsyandjyhouse/TencentAD_contest
+   Rank33: https://github.com/John-Yao/Tencent_Social_Ads2018
+   Rank69: https://github.com/BladeCoda/Tencent2018_Final_Phrase_Presto
+
+4. 2018JDATA 用户购买时间预测\
    Rank9：https://zhuanlan.zhihu.com/p/45141799
    
-3. 2018 DF风机叶片开裂预警\
+5. 2018 DF风机叶片开裂预警\
    Rank2：https://github.com/SY575/DF-Early-warning-of-the-wind-power-system
    
-4. 2018 DF光伏发电量预测\
+6. 2018 DF光伏发电量预测\
    Rank1：https://zhuanlan.zhihu.com/p/44755488?utm_source=qq&utm_medium=social&utm_oi=623925402599559168
           https://mp.weixin.qq.com/s/Yix0xVp2SiqaAcuS6Q049g
           
-5. AI全球挑战者大赛-违约用户风险预测\
+7. AI全球挑战者大赛-违约用户风险预测\
    Rank1：https://github.com/chenkkkk/User-loan-risk-prediction
    
-6. 2016融360-用户贷款风险预测\
+8. 2016融360-用户贷款风险预测\
    Rank7：https://github.com/hczheng/Rong360
-7. 2016 CCF-020优惠券使用预测\
+9. 2016 CCF-020优惠券使用预测\
    Rank1: https://github.com/wepe/O2O-Coupon-Usage-Forecast
-8. 2016 ccf-农产品价格预测\
+10. 2016 ccf-农产品价格预测\
    Rank2: https://github.com/xing89qs/CCF_Product
    Rank35: https://github.com/wqlin/ccf-price-prediction
-9. 2016 ccf-客户用电异常\
+11. 2016 ccf-客户用电异常\
    Rank4: https://github.com/AbnerYang/2016CCF-StateGrid
-10.2016 ccf-搜狗的用户画像比赛\
+12.2016 ccf-搜狗的用户画像比赛\
    Rank1: https://github.com/hengchao0248/ccf2016_sougou
    Rank3: https://github.com/AbnerYang/2016CCF-SouGou
    Rank5: https://github.com/dhdsjy/2016_CCFsougou
           https://github.com/dhdsjy/2016_CCFsougou2
           https://github.com/prozhuchen/2016CCF-sougou
           https://github.com/coderSkyChen/2016CCF_BDCI_Sougou
-11.2016 ccf-联通的用户轨迹
+13.2016 ccf-联通的用户轨迹\
    RankX: https://github.com/xuguanggen/2016CCF-unicom
-12.2016 ccf-Human or Robots
+14.2016 ccf-Human or Robots\
    Rank6: https://github.com/pickou/ccf_human_or_robot
-13.  菜鸟-需求预测与分仓规划\
+15.  菜鸟-需求预测与分仓规划\
    Rank6:  https://github.com/wepe/CaiNiao-DemandForecast-StoragePlaning
    Rank10: https://github.com/xing89qs/TianChi_CaiNiao_Season2
    
@@ -82,11 +110,14 @@ CV：
 3. Snake：https://github.com/luoda888
 4. Drop-out：https://github.com/drop-out
 5. 金老师的知乎：https://zhuanlan.zhihu.com/jlbookworm
+6. 渣大：https://github.com/nzc
+7. 郭大：https://github.com/guoday
    
 PS：
  --
  希望大家star，fork一下\
  特别感谢金老师对整理比赛开源已做出的贡献,特别是在2016年的ccf大赛中\
- 本人只是一名普通的本科学生，精力有限，但尽力关注国内比赛并持续更新\
- 联系方式：\
-      qq:240485545  Email:smile.xuhc@gmail.com
+ 本人只是一名普通的本科学生，精力有限，但努力做到持续更新国内比赛Top解决方案\
+ 团队联系方式：\
+      Smile  qq:240485545  Email:smile.xuhc@gmail.com
+      
