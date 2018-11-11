@@ -1,7 +1,6 @@
 Data competition Top Solution 数据竞赛Top解决方案开源整理
 ---------
-未完待续
-持续更新
+持续更新中
 欢迎大家一起参加
 
 
