@@ -54,33 +54,33 @@ Kaggle top方案整理：https://github.com/EliotAndres/kaggle-past-solutions
    
    
 
-4. 2018JDATA 用户购买时间预测\
+5. 2018JDATA 用户购买时间预测\
    Rank9：https://zhuanlan.zhihu.com/p/45141799 
    
-5. 2018 DF风机叶片开裂预警\
+6. 2018 DF风机叶片开裂预警\
    Rank2：https://github.com/SY575/DF-Early-warning-of-the-wind-power-system 
    
-6. 2018 DF光伏发电量预测\
+7. 2018 DF光伏发电量预测\
    Rank1：https://zhuanlan.zhihu.com/p/44755488?utm_source=qq&utm_medium=social&utm_oi=623925402599559168 \
           https://mp.weixin.qq.com/s/Yix0xVp2SiqaAcuS6Q049g 
           
-7. AI全球挑战者大赛-违约用户风险预测\
+8. AI全球挑战者大赛-违约用户风险预测\
    Rank1：https://github.com/chenkkkk/User-loan-risk-prediction 
    
-8. 2016融360-用户贷款风险预测\
+9. 2016融360-用户贷款风险预测\
    Rank7：https://github.com/hczheng/Rong360 
    
-9. 2016 CCF-020优惠券使用预测\
+10. 2016 CCF-020优惠券使用预测\
    Rank1: https://github.com/wepe/O2O-Coupon-Usage-Forecast 
    
-10. 2016 ccf-农产品价格预测\
+11. 2016 ccf-农产品价格预测\
    Rank2: https://github.com/xing89qs/CCF_Product \
    Rank35: https://github.com/wqlin/ccf-price-prediction 
  
-11. 2016 ccf-客户用电异常\
+12. 2016 ccf-客户用电异常\
    Rank4: https://github.com/AbnerYang/2016CCF-StateGrid 
    
-12. 2016 ccf-搜狗的用户画像比赛\
+13. 2016 ccf-搜狗的用户画像比赛\
    Rank1: https://github.com/hengchao0248/ccf2016_sougou \
    Rank3: https://github.com/AbnerYang/2016CCF-SouGou \
    Rank5: https://github.com/dhdsjy/2016_CCFsougou \
@@ -88,13 +88,13 @@ Kaggle top方案整理：https://github.com/EliotAndres/kaggle-past-solutions
           https://github.com/prozhuchen/2016CCF-sougou \
           https://github.com/coderSkyChen/2016CCF_BDCI_Sougou 
           
-13. 2016 ccf-联通的用户轨迹\
+14. 2016 ccf-联通的用户轨迹\
    RankX: https://github.com/xuguanggen/2016CCF-unicom 
    
-14. 2016 ccf-Human or Robots\
+15. 2016 ccf-Human or Robots\
    Rank6: https://github.com/pickou/ccf_human_or_robot 
    
-15. 菜鸟-需求预测与分仓规划\
+16. 菜鸟-需求预测与分仓规划\
    Rank6:  https://github.com/wepe/CaiNiao-DemandForecast-StoragePlaning \
    Rank10: https://github.com/xing89qs/TianChi_CaiNiao_Season2 
    
