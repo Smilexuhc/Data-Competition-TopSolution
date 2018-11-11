@@ -43,6 +43,17 @@ Kaggle top方案整理：https://github.com/EliotAndres/kaggle-past-solutions
    Rank26: https://github.com/zsyandjyhouse/TencentAD_contest \
    Rank33: https://github.com/John-Yao/Tencent_Social_Ads2018 \
    Rank69: https://github.com/BladeCoda/Tencent2018_Final_Phrase_Presto 
+4. 2018高校大数据挑战赛-快手活跃用户预测
+   Rank1： https://github.com/drop-out/RNN-Active-User-Forecast \
+           https://zhuanlan.zhihu.com/p/42622063 \
+   Rank4:  https://github.com/chantcalf/2018-Rank4- \
+   Rank13(初赛 a榜rank2 b榜rank5): https://github.com/luoda888/2018-KUAISHOU-TSINGHUA-Top13-Solutions \
+   Rank15: https://github.com/sunwantong/Kuaishou-Active-User \
+   Rank20: https://github.com/bigzhao/Kuaishou_2018_rank20th \
+   Rank28(初赛 a榜rank1 b榜rank2)：https://github.com/YangKing0834131/2018-KUAISHOU-TSINGHUA-Top28-Solutions- \
+                                  https://github.com/FNo0/2018-KUAISHOU-Top28
+   
+   
 
 4. 2018JDATA 用户购买时间预测\
    Rank9：https://zhuanlan.zhihu.com/p/45141799 
@@ -138,6 +149,6 @@ PS：
  
  团队联系方式：\
       Smile  qq:240485545  Email:smile.xuhc@gmail.com \
-      PUSH  qq:1471386635 Email：1471386635qq.com \
+      PUSH  qq:1471386635 Email：1471386635@qq.com \
       dive2space qq: 1124361357 Email:dive2space@qq.com
       
