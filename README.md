@@ -137,5 +137,7 @@ PS：
  特别感谢金老师对整理比赛开源已做出的贡献,特别是在2016年的ccf大赛中
  
  团队联系方式：\
-      Smile  qq:240485545  Email:smile.xuhc@gmail.com
+      Smile  qq:240485545  Email:smile.xuhc@gmail.com \
+      光●玖  qq:1471386635 \
+      dive2space qq: 1124361357 Email:esk-september@foxmail.com
       
