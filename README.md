@@ -139,5 +139,5 @@ PS：
  团队联系方式：\
       Smile  qq:240485545  Email:smile.xuhc@gmail.com \
       PUSH  qq:1471386635 Email：1471386635qq.com \
-      dive2space qq: 1124361357 Email:dive2space@foxmail.com
+      dive2space qq: 1124361357 Email:dive2space@qq.com
       
