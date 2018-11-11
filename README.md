@@ -42,7 +42,7 @@ Kaggle top方案整理：https://github.com/EliotAndres/kaggle-past-solutions
    Rank26: https://github.com/zsyandjyhouse/TencentAD_contest \
    Rank33: https://github.com/John-Yao/Tencent_Social_Ads2018 \
    Rank69: https://github.com/BladeCoda/Tencent2018_Final_Phrase_Presto 
-4. 2018高校大数据挑战赛-快手活跃用户预测
+4. 2018高校大数据挑战赛-快手活跃用户预测 \
    Rank1： https://github.com/drop-out/RNN-Active-User-Forecast \
            https://zhuanlan.zhihu.com/p/42622063 \
    Rank4:  https://github.com/chantcalf/2018-Rank4- \
@@ -100,17 +100,24 @@ Kaggle top方案整理：https://github.com/EliotAndres/kaggle-past-solutions
    
 NLP：
 ------
-1. 智能客服问题相似度算法设计——第三届魔镜杯大赛\
+1. 2018 DC达观-文本智能处理挑战 \
+   Rank1: https://github.com/ShawnyXiao/2018-DC-DataGrand-TextIntelProcess \
+   Rank4: https://github.com/hecongqing/2018-daguan-competition \
+   Rank10: https://github.com/moneyDboat/data_grand \
+   Rank18: https://github.com/nlpjoe/daguan-classify-2018 \
+   RankX: https://github.com/yanqiangmiffy/daguan 
+2. 智能客服问题相似度算法设计——第三届魔镜杯大赛\
    rank6 https://github.com/qrfaction/paipaidai
    
    rank12 https://www.jianshu.com/p/827dd447daf9
           https://github.com/LittletreeZou/Question-Pairs-Matching
           
-   Rank16：https://github.com/guoday/PaiPaiDai2018_rank16
+   Rank16：https://github.com/guoday/PaiPaiDai2018_rank16 \
+   Rank29: https://github.com/wangjiaxin24/daguan_NLP 
           
-2. 2018JD Dialog Challenge 任务导向型对话系统挑战赛\
+3. 2018JD Dialog Challenge 任务导向型对话系统挑战赛\
    Rank3: https://github.com/zengbin93/jddc_solution_4th
-3. CIKM AnalytiCup 2018 – 阿里小蜜机器人跨语言短文本匹配算法竞赛\
+4. 2018CIKM AnalytiCup  – 阿里小蜜机器人跨语言短文本匹配算法竞赛\
    Rank2: https://github.com/zake7749/Closer \
    Rank12：https://github.com/Leputa/CIKM-AnalytiCup-2018 \
    Rank18: https://github.com/VincentChen525/Tianchi/tree/master/CIKM%20AnalytiCup%202018
