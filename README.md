@@ -138,6 +138,6 @@ PS：
  
  团队联系方式：\
       Smile  qq:240485545  Email:smile.xuhc@gmail.com \
-      光●玖  qq:1471386635 \
-      dive2space qq: 1124361357 Email:esk-september@foxmail.com
+      PUSH  qq:1471386635 Email：1471386635qq.com \
+      dive2space qq: 1124361357 Email:dive2space@foxmail.com
       
