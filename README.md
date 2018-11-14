@@ -95,52 +95,18 @@ Data competition Top Solution 数据竞赛Top解决方案开源整理
    Rank1:  https://www.kaggle.com/c/data-science-bowl-2018/discussion/54741       
    Rank4:  https://www.kaggle.com/c/data-science-bowl-2018/discussion/55118 
 
-18. Kaggle Google地标检索   
-   Rank1: http://t.cn/R1i7Xiy  
-   Rank14： http://t.cn/R1nQriY
-   
-19. 路透社新闻数据集“深度”探索性分析(词向量/情感分析)        
-   https://www.kaggle.com/hoonkeng/deep-eda-word-embeddings-sentiment-analysis/notebook
-
-20. Lyft感知挑战赛   
-   赛题： http://t.cn/RBtrJcE  
-   Rank4： http://t.cn/RBtrMdw  
-          http://t.cn/RBJnlug
-21. 2018对抗挑战优胜经验分享  
+18. 2018对抗挑战优胜经验分享  
    by snakers41: http://t.cn/RBMaq4y  
    GitHub:http://t.cn/RBMlfBH
 
-22. Kaggle植物幼苗图像分类挑战赛   
-   Rank1: http://t.cn/RBssjf6
-
-23. Galaxy Zoo challenge   
+19. Galaxy Zoo challenge   
    http://benanne.github.io/2014/04/05/galaxy-zoo.html
 
-24. Kaggle Home Credi违约风险预测   
-   http://t.cn/RFjpngW
-
-25. Kaggle Google AI Open Images  
-   Rank15: http://t.cn/RF1jnis
-
-26. Kaggle Home Credit违约风险预测   
+20. Kaggle Home Credit违约风险预测   
    Rank1: http://t.cn/RFsoHgv
 
-27. 第三届阿里云安全算法挑战赛   
+21. 第三届阿里云安全算法挑战赛   
    Rank1: https://github.com/poteman/Alibaba-3rd-Security-Algorithm-Challenge
-
-28. (Kaggle)CVPR 2018 WAD视频分割  
-   Rank2: http://t.cn/Ehp4Ggm
-
-29. Kaggle TGS盐体识别挑战  
-   Rank1: http://t.cn/EzkDlOC  
-   Rank4: http://t.cn/EzuvemA  
-          http://t.cn/EzuPvfp   
-   Rank9: http://t.cn/EznzvYv    
-   Rank22: http://t.cn/EzYkR6i  
-
-30. Quick, Draw! Kaggle Competition Starter Pack    
-   http://t.cn/EZAoZDM
-    
 
 ## 二、NLP：
 
@@ -159,15 +125,44 @@ Data competition Top Solution 数据竞赛Top解决方案开源整理
           
 3. 2018JD Dialog Challenge 任务导向型对话系统挑战赛  
    Rank3: https://github.com/zengbin93/jddc_solution_4th
+   
 4. 2018CIKM AnalytiCup  – 阿里小蜜机器人跨语言短文本匹配算法竞赛  
    Rank2: https://github.com/zake7749/Closer   
    Rank12：https://github.com/Leputa/CIKM-AnalytiCup-2018   
    Rank18: https://github.com/VincentChen525/Tianchi/tree/master/CIKM%20AnalytiCup%202018
+   
+5. 路透社新闻数据集“深度”探索性分析(词向量/情感分析)        
+   https://www.kaggle.com/hoonkeng/deep-eda-word-embeddings-sentiment-analysis/notebook
+
 
 
 ### 三、CV：
-1. Kaggle-TGS  
+1. Kaggle-TGS
+   Rank1: http://t.cn/EzkDlOC  
+   Rank4: http://t.cn/EzuvemA  
+          http://t.cn/EzuPvfp   
+   Rank9: http://t.cn/EznzvYv    
+   Rank22: http://t.cn/EzYkR6i  
    Rank56 https://github.com/Gary-Deeplearning/TGS-Salt
+   
+2. Kaggle Google地标检索   
+   Rank1: http://t.cn/R1i7Xiy  
+   Rank14： http://t.cn/R1nQriY
+   
+3.  Lyft感知挑战赛   
+   赛题： http://t.cn/RBtrJcE  
+   Rank4： http://t.cn/RBtrMdw  
+          http://t.cn/RBJnlug
+          
+4. (Kaggle)CVPR 2018 WAD视频分割  
+   Rank2: http://t.cn/Ehp4Ggm
+   
+5.  Kaggle Google AI Open Images  
+   Rank15: http://t.cn/RF1jnis
+6.  Quick, Draw! Kaggle Competition Starter Pack    
+    http://t.cn/EZAoZDM
+7. Kaggle植物幼苗图像分类挑战赛   
+   Rank1: http://t.cn/RBssjf6
    
 ### 四、大佬的Github：
 1. 植物 ：https://github.com/plantsgo 
@@ -211,7 +206,6 @@ http://t.cn/ReIJOXK
    
 **PS：**
  特别感谢金老师对整理比赛开源已做出的贡献,特别是在2016年的ccf大赛中
- 
  团队联系方式：  
       Smile  qq:240485545  Email:smile.xuhc@gmail.com   
       PUSH  qq:1471386635 Email:1471386635@qq.com   
