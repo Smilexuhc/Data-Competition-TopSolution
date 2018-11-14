@@ -197,7 +197,7 @@ http://t.cn/ReIJOXK
 * Ask Me Anything session with a Kaggle Grandmaster Vladimir I. Iglovikov http://t.cn/Eww4nnu
 * 2018 NIPS视觉对抗挑战总结 http://t.cn/EAMqw0P
 
-### 六、资源整理：
+### 六、数据集：
 【开放数据集大列表】《Open Datasets | Skymind》 http://t.cn/RFAoweW 
 
 【数据集搜索引擎：Google启动新搜索引擎帮助科学家找到需要的数据集】http://t.cn/RsAHucP 
