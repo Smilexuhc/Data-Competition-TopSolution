@@ -119,7 +119,7 @@ Data competition Top Solution 数据竞赛Top解决方案开源整理
 2. 智能客服问题相似度算法设计——第三届魔镜杯大赛  
    rank6 https://github.com/qrfaction/paipaidai  
    rank12 https://www.jianshu.com/p/827dd447daf9
-          https://github.com/LittletreeZou/Question-Pairs-Matching 
+          https://github.com/LittletreeZou/Question-Pairs-Matching  
    Rank16：https://github.com/guoday/PaiPaiDai2018_rank16   
    Rank29: https://github.com/wangjiaxin24/daguan_NLP 
           
