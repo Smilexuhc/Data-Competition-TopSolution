@@ -134,6 +134,11 @@ Data competition Top Solution 数据竞赛Top解决方案开源整理
 5. 路透社新闻数据集“深度”探索性分析(词向量/情感分析)        
    https://www.kaggle.com/hoonkeng/deep-eda-word-embeddings-sentiment-analysis/notebook
 
+6. “神策杯”2018高校算法大师赛(关键词提取)
+   Rank1: http://www.dcjingsai.com/common/bbs/topicDetails.html?tid=2382   
+   Rank2: https://github.com/bigzhao/Keyword_Extraction   
+   Rank5: https://github.com/Dikea/ShenceCup.extract_keywords 
+
 
 
 ### 三、CV：
