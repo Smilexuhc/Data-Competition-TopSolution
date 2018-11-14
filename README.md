@@ -90,7 +90,58 @@ Data competition Top Solution 数据竞赛Top解决方案开源整理
 16. 菜鸟-需求预测与分仓规划  
    Rank6:  https://github.com/wepe/CaiNiao-DemandForecast-StoragePlaning   
    Rank10: https://github.com/xing89qs/TianChi_CaiNiao_Season2 
+
+17. (Kaggle)2018 Data Science Bow   
+   Rank1:  https://www.kaggle.com/c/data-science-bowl-2018/discussion/54741       
+   Rank4:  https://www.kaggle.com/c/data-science-bowl-2018/discussion/55118 
+
+18. Kaggle Google地标检索   
+   Rank1: http://t.cn/R1i7Xiy  
+   Rank14： http://t.cn/R1nQriY
    
+19. 路透社新闻数据集“深度”探索性分析(词向量/情感分析)        
+   https://www.kaggle.com/hoonkeng/deep-eda-word-embeddings-sentiment-analysis/notebook
+
+20. Lyft感知挑战赛   
+   赛题： http://t.cn/RBtrJcE  
+   Rank4： http://t.cn/RBtrMdw  
+          http://t.cn/RBJnlug
+21. 2018对抗挑战优胜经验分享  
+   by snakers41: http://t.cn/RBMaq4y  
+   GitHub:http://t.cn/RBMlfBH
+
+22. Kaggle植物幼苗图像分类挑战赛   
+   Rank1: http://t.cn/RBssjf6
+
+23. Galaxy Zoo challenge   
+   http://benanne.github.io/2014/04/05/galaxy-zoo.html
+
+24. Kaggle Home Credi违约风险预测   
+   http://t.cn/RFjpngW
+
+25. Kaggle Google AI Open Images  
+   Rank15: http://t.cn/RF1jnis
+
+26. Kaggle Home Credit违约风险预测   
+   Rank1: http://t.cn/RFsoHgv
+
+27. 第三届阿里云安全算法挑战赛   
+   Rank1: https://github.com/poteman/Alibaba-3rd-Security-Algorithm-Challenge
+
+28. (Kaggle)CVPR 2018 WAD视频分割  
+   Rank2: http://t.cn/Ehp4Ggm
+
+29. Kaggle TGS盐体识别挑战  
+   Rank1: http://t.cn/EzkDlOC  
+   Rank4: http://t.cn/EzuvemA  
+          http://t.cn/EzuPvfp   
+   Rank9: http://t.cn/EznzvYv    
+   Rank22: http://t.cn/EzYkR6i  
+
+30. Quick, Draw! Kaggle Competition Starter Pack    
+   http://t.cn/EZAoZDM
+    
+
 ## 二、NLP：
 
 1. 2018 DC达观-文本智能处理挑战   
@@ -100,11 +151,9 @@ Data competition Top Solution 数据竞赛Top解决方案开源整理
    Rank18: https://github.com/nlpjoe/daguan-classify-2018   
    RankX: https://github.com/yanqiangmiffy/daguan 
 2. 智能客服问题相似度算法设计——第三届魔镜杯大赛  
-   rank6 https://github.com/qrfaction/paipaidai
-   
+   rank6 https://github.com/qrfaction/paipaidai  
    rank12 https://www.jianshu.com/p/827dd447daf9
-          https://github.com/LittletreeZou/Question-Pairs-Matching
-          
+          https://github.com/LittletreeZou/Question-Pairs-Matching 
    Rank16：https://github.com/guoday/PaiPaiDai2018_rank16   
    Rank29: https://github.com/wangjiaxin24/daguan_NLP 
           
@@ -135,9 +184,29 @@ Data competition Top Solution 数据竞赛Top解决方案开源整理
 * Kaggle top方案整理：https://github.com/EliotAndres/kaggle-past-solutions
 * 介绍featexp 一个帮助理解特征的工具包 http://www.sohu.com/a/273552971_129720
 * Ask Me Anything session with a Kaggle Grandmaster Vladimir I. Iglovikov PDF：https://pan.baidu.com/s/1XkFwko_YrI5TfjjIai7ONQ
+* Owen Zhang访谈：Kaggle制胜的秘密 http://t.cn/RBzPcyg
+* How to Compete for Zillow Prize at Kaggle https://www.datasciencecentral.com/profiles/blogs/how-to-compete-for-zillow-prize-at-kaggle
+* Profiling Top Kagglers: Martin Henze http://blog.kaggle.com/2018/06/19/tales-from-my-first-year-inside-the-head-of-a-recent-kaggle-addict/
+* Kaggle数据科学词汇表 http://t.cn/Rdx72Cn
+* Kaggle比赛优胜方案汇总 http://t.cn/Rdkj3Co
+* Kaggle比赛实战教程(Pandas, Matplotlib, XGBoost/Colab) http://t.cn/ReIJOX0   
+http://t.cn/ReIJOXK
+* Kaggle看照片猜相机比赛心得分享 http://t.cn/Rkz5Q9y pdf:http://t.cn/Rkz5Q9L
+* Kaggle在线分类广告需求预测比赛优胜方案分享 http://t.cn/RFpQg9O
+* Kaggle | Winner Interview http://blog.kaggle.com/2018/09/14/pei-lien-chou/
+* Ask Me Anything session with a Kaggle Grandmaster Vladimir I. Iglovikov http://t.cn/Eww4nnu
+* 2018 NIPS视觉对抗挑战总结 http://t.cn/EAMqw0P
 
+### 六、资源整理：
+【开放数据集大列表】《Open Datasets | Skymind》 http://t.cn/RFAoweW 
 
+【数据集搜索引擎：Google启动新搜索引擎帮助科学家找到需要的数据集】http://t.cn/RsAHucP 
+ https://www.blog.google/products/search/making-it-easier-discover-datasets/  
+  Dataset Search:http://t.cn/RsAHuch
 
+【fast.ai开放数据集】“fast.ai Datasets”  http://t.cn/Ezzp51m ref:《The new fast.ai research datasets collection, on AWS Open Data》  http://t.cn/EzzpXQ5 种子来了 http://t.cn/EzA7XpZ
+
+【计算机视觉“小众”数据集集锦】《Rare Datasets for Computer Vision Every Machine Learning Expert Must Work With》 http://t.cn/EZE9Vb7
 
    
 **PS：**
@@ -146,5 +215,6 @@ Data competition Top Solution 数据竞赛Top解决方案开源整理
  团队联系方式：  
       Smile  qq:240485545  Email:smile.xuhc@gmail.com   
       PUSH  qq:1471386635 Email:1471386635@qq.com   
-      dive2space qq: 1124361357 Email:dive2space@qq.com
+      dive2space qq: 1124361357 Email:dive2space@qq.com  
+      Jean_V  qq:2398963799  Email:jianwu925@qq.com
       
