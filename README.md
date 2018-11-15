@@ -164,10 +164,15 @@ Data competition Top Solution 数据竞赛Top解决方案开源整理
    
 5.  Kaggle Google AI Open Images  
    Rank15: http://t.cn/RF1jnis
+   
 6.  Quick, Draw! Kaggle Competition Starter Pack    
     http://t.cn/EZAoZDM
+    
 7. Kaggle植物幼苗图像分类挑战赛   
    Rank1: http://t.cn/RBssjf6
+   
+8. Kaggle Airbus Ship Detection Challenge (Kaggle卫星图像船舶检测比赛)   
+   Rank8: https://github.com/SeuTao/Kaggle_Airbus2018_8th_code
    
 ### 四、大佬的Github：
 1. 植物 ：https://github.com/plantsgo 
