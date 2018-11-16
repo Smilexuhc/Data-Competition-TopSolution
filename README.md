@@ -63,17 +63,20 @@ Data competition Top Solution 数据竞赛Top解决方案开源整理
 9. 2016融360-用户贷款风险预测  
    Rank7：https://github.com/hczheng/Rong360 
    
-10. 2016 CCF-020优惠券使用预测  
+10. 2018 CCF-面向电信行业存量用户的智能套餐个性化匹配模型  
+   Rank1：https://github.com/PPshrimpGo/BDCI2018-ChinauUicom-1st-solution
+   
+11. 2016 CCF-020优惠券使用预测  
    Rank1: https://github.com/wepe/O2O-Coupon-Usage-Forecast 
    
-11. 2016 ccf-农产品价格预测  
+12. 2016 ccf-农产品价格预测  
    Rank2: https://github.com/xing89qs/CCF_Product   
    Rank35: https://github.com/wqlin/ccf-price-prediction 
  
-12. 2016 ccf-客户用电异常  
+13. 2016 ccf-客户用电异常  
    Rank4: https://github.com/AbnerYang/2016CCF-StateGrid 
    
-13. 2016 ccf-搜狗的用户画像比赛  
+14. 2016 ccf-搜狗的用户画像比赛  
    Rank1: https://github.com/hengchao0248/ccf2016_sougou   
    Rank3: https://github.com/AbnerYang/2016CCF-SouGou   
    Rank5: https://github.com/dhdsjy/2016_CCFsougou   
@@ -81,31 +84,31 @@ Data competition Top Solution 数据竞赛Top解决方案开源整理
           https://github.com/prozhuchen/2016CCF-sougou   
           https://github.com/coderSkyChen/2016CCF_BDCI_Sougou 
           
-14. 2016 ccf-联通的用户轨迹  
+15. 2016 ccf-联通的用户轨迹  
    RankX: https://github.com/xuguanggen/2016CCF-unicom 
    
-15. 2016 ccf-Human or Robots  
+16. 2016 ccf-Human or Robots  
    Rank6: https://github.com/pickou/ccf_human_or_robot 
    
-16. 菜鸟-需求预测与分仓规划  
+17. 菜鸟-需求预测与分仓规划  
    Rank6:  https://github.com/wepe/CaiNiao-DemandForecast-StoragePlaning   
    Rank10: https://github.com/xing89qs/TianChi_CaiNiao_Season2 
 
-17. (Kaggle)2018 Data Science Bow   
+18. (Kaggle)2018 Data Science Bow   
    Rank1:  https://www.kaggle.com/c/data-science-bowl-2018/discussion/54741       
    Rank4:  https://www.kaggle.com/c/data-science-bowl-2018/discussion/55118 
 
-18. 2018对抗挑战优胜经验分享  
+19. 2018对抗挑战优胜经验分享  
    by snakers41: http://t.cn/RBMaq4y  
    GitHub:http://t.cn/RBMlfBH
 
-19. Galaxy Zoo challenge   
+20. Galaxy Zoo challenge   
    http://benanne.github.io/2014/04/05/galaxy-zoo.html
 
-20. Kaggle Home Credit违约风险预测   
+21. Kaggle Home Credit违约风险预测   
    Rank1: http://t.cn/RFsoHgv
 
-21. 第三届阿里云安全算法挑战赛   
+22. 第三届阿里云安全算法挑战赛   
    Rank1: https://github.com/poteman/Alibaba-3rd-Security-Algorithm-Challenge
 
 ## 二、NLP：
