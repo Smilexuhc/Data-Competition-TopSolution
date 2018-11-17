@@ -6,7 +6,9 @@ Data competition Top Solution 数据竞赛Top解决方案开源整理
 ## 一、数据竞赛：
 
 1. 2018科大讯飞AI营销算法大赛  
-   Rank1：https://zhuanlan.zhihu.com/p/47807544
+   Rank1：https://zhuanlan.zhihu.com/p/47807544  
+   Rank2：https://github.com/infturing/kdxf  
+   Rank21：https://github.com/Michaelhuazhang/-AI21-
 
 2. 2018 IJCAI 阿里妈妈搜索广告转化预测  
    Rank1：https://github.com/plantsgo/ijcai-2018   
@@ -39,13 +41,15 @@ Data competition Top Solution 数据竞赛Top解决方案开源整理
    
 4. 2018高校大数据挑战赛-快手活跃用户预测   
    Rank1： https://github.com/drop-out/RNN-Active-User-Forecast   
-           https://zhuanlan.zhihu.com/p/42622063   
-   Rank4:  https://github.com/chantcalf/2018-Rank4-   
-   Rank13(初赛 a榜rank2 b榜rank5): https://github.com/luoda888/2018-KUAISHOU-TSINGHUA-Top13-Solutions   
-   Rank15: https://github.com/sunwantong/Kuaishou-Active-User   
-   Rank20: https://github.com/bigzhao/Kuaishou_2018_rank20th   
-   Rank28(初赛 a榜rank1 b榜rank2)：https://github.com/YangKing0834131/2018-KUAISHOU-TSINGHUA-Top28-Solutions-   
-                                  https://github.com/FNo0/2018-KUAISHOU-Top28
+           https://zhuanlan.zhihu.com/p/42622063     
+   Rank4:  https://github.com/chantcalf/2018-Rank4-     
+   Rank13(初赛 a榜rank2 b榜rank5): https://github.com/luoda888/2018-KUAISHOU-TSINGHUA-Top13-Solutions  
+                                  https://github.com/totoruo/KuaiShou2018-RANK13-RNN  
+   Rank15: https://github.com/sunwantong/Kuaishou-Active-User     
+   Rank20: https://github.com/bigzhao/Kuaishou_2018_rank20th     
+   Rank28(初赛 a榜rank1 b榜rank2)：https://github.com/YangKing0834131/2018-KUAISHOU-TSINGHUA-Top28-Solutions-     
+                                  https://github.com/FNo0/2018-KUAISHOU-Top28  
+   Rank35：https://github.com/chizhu/kuaishou2018  
    
 5. 2018JDATA 用户购买时间预测  
    Rank9：https://zhuanlan.zhihu.com/p/45141799 
@@ -64,7 +68,9 @@ Data competition Top Solution 数据竞赛Top解决方案开源整理
    Rank7：https://github.com/hczheng/Rong360 
    
 10. 2018 CCF-面向电信行业存量用户的智能套餐个性化匹配模型  
-   Rank1：https://github.com/PPshrimpGo/BDCI2018-ChinauUicom-1st-solution
+   Rank1：https://github.com/PPshrimpGo/BDCI2018-ChinauUicom-1st-solution  
+   Rank2：https://github.com/PandasCute/2018-CCF-BDCI-China-Unicom-Research-Institute-top2  
+          
    
 11. 2016 CCF-020优惠券使用预测  
    Rank1: https://github.com/wepe/O2O-Coupon-Usage-Forecast 
@@ -111,14 +117,22 @@ Data competition Top Solution 数据竞赛Top解决方案开源整理
 22. 第三届阿里云安全算法挑战赛   
    Rank1: https://github.com/poteman/Alibaba-3rd-Security-Algorithm-Challenge
 
+23. 2018dc-新网银行杯
+   Rank3：https://github.com/Smilexuhc/Xingwangbankcup-top3  
+   Rank4：https://github.com/TingNie/CreditForecast
+
 ## 二、NLP：
 
 1. 2018 DC达观-文本智能处理挑战   
-   Rank1: https://github.com/ShawnyXiao/2018-DC-DataGrand-TextIntelProcess   
-   Rank4: https://github.com/hecongqing/2018-daguan-competition   
-   Rank10: https://github.com/moneyDboat/data_grand   
-   Rank18: https://github.com/nlpjoe/daguan-classify-2018   
-   RankX: https://github.com/yanqiangmiffy/daguan 
+   Rank1: https://github.com/ShawnyXiao/2018-DC-DataGrand-TextIntelProcess  
+   Rank2：https://github.com/CortexFoundation/-    
+   Rank4: https://github.com/hecongqing/2018-daguan-competition  
+   Rank8：https://github.com/Rowchen/Text-classifier  
+   Rank10: https://github.com/moneyDboat/data_grand  
+   Rank11：https://github.com/TianyuZhuuu/DaGuan_TextClassification_Rank11  
+   Rank18: https://github.com/nlpjoe/daguan-classify-2018       
+   RankX: https://github.com/yanqiangmiffy/daguan
+   
 2. 智能客服问题相似度算法设计——第三届魔镜杯大赛  
    rank6 https://github.com/qrfaction/paipaidai  
    rank12 https://www.jianshu.com/p/827dd447daf9
@@ -140,7 +154,13 @@ Data competition Top Solution 数据竞赛Top解决方案开源整理
 6. “神策杯”2018高校算法大师赛(关键词提取)        
    Rank1: http://www.dcjingsai.com/common/bbs/topicDetails.html?tid=2382   
    Rank2: https://github.com/bigzhao/Keyword_Extraction   
-   Rank5: https://github.com/Dikea/ShenceCup.extract_keywords 
+   Rank5: https://github.com/Dikea/ShenceCup.extract_keywords
+7.  知乎看山杯：  
+   Rank1：https://github.com/chenyuntc/PyTorchText  
+   Rank2：https://github.com/Magic-Bubble/Zhihu  
+   Rank3：https://github.com/yongyehuang/zhihu-text-classification  
+   Rank9：https://github.com/coderSkyChen/zhihu_kanshan_cup_2017  
+   Rank21：https://github.com/zhaoyu87/zhihu  
 
 
 
@@ -184,7 +204,8 @@ Data competition Top Solution 数据竞赛Top解决方案开源整理
 4. Drop-out：https://github.com/drop-out 
 5. 金老师的知乎：https://zhuanlan.zhihu.com/jlbookworm 
 6. 渣大：https://github.com/nzc 
-7. 郭大：https://github.com/guoday 
+7. 郭大：https://github.com/guoday  
+8. Cortex Lab：https://github.com/CortexFoundation
 
 ### 五、资源整理：
 * 数据比赛资讯：https://github.com/iphysresearch/DataSciComp  
