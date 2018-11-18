@@ -71,18 +71,20 @@ Data competition Top Solution 数据竞赛Top解决方案开源整理
    Rank1：https://github.com/PPshrimpGo/BDCI2018-ChinauUicom-1st-solution  
    Rank2：https://github.com/PandasCute/2018-CCF-BDCI-China-Unicom-Research-Institute-top2  
           
-   
-11. 2016 CCF-020优惠券使用预测  
+11. 2018 CCF-汽车领域ASC挑战赛  
+   Rank7: https://github.com/nlpjoe/CCF-BDCI-Automotive-Field-ASC-2018
+
+12. 2016 CCF-020优惠券使用预测  
    Rank1: https://github.com/wepe/O2O-Coupon-Usage-Forecast 
    
-12. 2016 ccf-农产品价格预测  
+13. 2016 ccf-农产品价格预测  
    Rank2: https://github.com/xing89qs/CCF_Product   
    Rank35: https://github.com/wqlin/ccf-price-prediction 
  
-13. 2016 ccf-客户用电异常  
+14. 2016 ccf-客户用电异常  
    Rank4: https://github.com/AbnerYang/2016CCF-StateGrid 
    
-14. 2016 ccf-搜狗的用户画像比赛  
+15. 2016 ccf-搜狗的用户画像比赛  
    Rank1: https://github.com/hengchao0248/ccf2016_sougou   
    Rank3: https://github.com/AbnerYang/2016CCF-SouGou   
    Rank5: https://github.com/dhdsjy/2016_CCFsougou   
@@ -90,45 +92,45 @@ Data competition Top Solution 数据竞赛Top解决方案开源整理
           https://github.com/prozhuchen/2016CCF-sougou   
           https://github.com/coderSkyChen/2016CCF_BDCI_Sougou 
           
-15. 2016 ccf-联通的用户轨迹  
+16. 2016 ccf-联通的用户轨迹  
    RankX: https://github.com/xuguanggen/2016CCF-unicom 
    
-16. 2016 ccf-Human or Robots  
+17. 2016 ccf-Human or Robots  
    Rank6: https://github.com/pickou/ccf_human_or_robot 
    
-17. 菜鸟-需求预测与分仓规划  
+18. 菜鸟-需求预测与分仓规划  
    Rank6:  https://github.com/wepe/CaiNiao-DemandForecast-StoragePlaning   
    Rank10: https://github.com/xing89qs/TianChi_CaiNiao_Season2 
 
-18. (Kaggle)2018 Data Science Bow   
+19. (Kaggle)2018 Data Science Bow   
    Rank1:  https://www.kaggle.com/c/data-science-bowl-2018/discussion/54741       
    Rank4:  https://www.kaggle.com/c/data-science-bowl-2018/discussion/55118 
 
-19. 2018对抗挑战优胜经验分享  
+20. 2018对抗挑战优胜经验分享  
    by snakers41: http://t.cn/RBMaq4y  
    GitHub:http://t.cn/RBMlfBH
 
-20. Galaxy Zoo challenge   
+21. Galaxy Zoo challenge   
    http://benanne.github.io/2014/04/05/galaxy-zoo.html
 
-21. Kaggle Home Credit违约风险预测   
+22. Kaggle Home Credit违约风险预测   
    Rank1: http://t.cn/RFsoHgv
 
-22. 第三届阿里云安全算法挑战赛   
+23. 第三届阿里云安全算法挑战赛   
    Rank1: https://github.com/poteman/Alibaba-3rd-Security-Algorithm-Challenge
 
-23. 2018dc-新网银行杯
+24. 2018dc-新网银行杯
    Rank3：https://github.com/Smilexuhc/Xingwangbankcup-top3  
    Rank4：https://github.com/TingNie/CreditForecast
 
 ## 二、NLP：
 
-1. 2018 DC达观-文本智能处理挑战   
+1. 2018 DC达观-文本智能处理挑战
    Rank1: https://github.com/ShawnyXiao/2018-DC-DataGrand-TextIntelProcess  
    Rank2：https://github.com/CortexFoundation/-    
    Rank4: https://github.com/hecongqing/2018-daguan-competition  
    Rank8：https://github.com/Rowchen/Text-classifier  
-   Rank10: https://github.com/moneyDboat/data_grand  
+   Rank10: https://github.com/moneyDboat/data_grand
    Rank11：https://github.com/TianyuZhuuu/DaGuan_TextClassification_Rank11  
    Rank18: https://github.com/nlpjoe/daguan-classify-2018       
    RankX: https://github.com/yanqiangmiffy/daguan
@@ -158,11 +160,15 @@ Data competition Top Solution 数据竞赛Top解决方案开源整理
 7.  知乎看山杯：  
    Rank1：https://github.com/chenyuntc/PyTorchText  
    Rank2：https://github.com/Magic-Bubble/Zhihu  
-   Rank3：https://github.com/yongyehuang/zhihu-text-classification  
+   Rank6：https://github.com/yongyehuang/zhihu-text-classification
    Rank9：https://github.com/coderSkyChen/zhihu_kanshan_cup_2017  
    Rank21：https://github.com/zhaoyu87/zhihu  
 
+8. 2018 CCL 客服领域用户意图分类评测  
+   Rank1：https://github.com/nlpjoe/2018-CCL-UIIMCS
 
+9. 第二届搜狐内容识别大赛  
+   Rank1：https://github.com/zhanzecheng/SOHU_competition
 
 ### 三、CV：
 1. Kaggle-TGS
