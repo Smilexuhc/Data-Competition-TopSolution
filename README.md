@@ -175,7 +175,9 @@ Data competition Top Solution 数据竞赛Top解决方案开源整理
    Rank1: http://t.cn/EzkDlOC  
    Rank4: http://t.cn/EzuvemA  
           http://t.cn/EzuPvfp   
-   Rank9: http://t.cn/EznzvYv    
+   Rank9: http://t.cn/EznzvYv  
+   Rank11:https://github.com/iasawseen/Kaggle-TGS-salt-solution
+   Rank15:https://github.com/adam9500370/Kaggle-TGS
    Rank22: http://t.cn/EzYkR6i  
    Rank56 https://github.com/Gary-Deeplearning/TGS-Salt
    
@@ -202,7 +204,12 @@ Data competition Top Solution 数据竞赛Top解决方案开源整理
    
 8. Kaggle Airbus Ship Detection Challenge (Kaggle卫星图像船舶检测比赛)   
    Rank8: https://github.com/SeuTao/Kaggle_Airbus2018_8th_code
-   
+9.kaggle RSNA Pneumonia Detection
+   Rank1:https://github.com/i-pan/kaggle-rsna18
+   Rank2:https://github.com/SeuTao/Kaggle_TGS2018_4th_solution
+   Rank3:https://github.com/pmcheng/rsna-pneumonia
+   Rank6:https://github.com/pfnet-research/pfneumonia
+   Rank10:https://github.com/alessonscap/rsna-challenge-2018
 ### 四、大佬的Github：
 1. 植物 ：https://github.com/plantsgo 
 2. wepon ：https://github.com/wepe 
