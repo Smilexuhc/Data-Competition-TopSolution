@@ -115,11 +115,17 @@ Data competition Top Solution 数据竞赛Top解决方案开源整理
 
 22. Kaggle Home Credit违约风险预测   
    Rank1: http://t.cn/RFsoHgv
+   
+23. Kaggle 2017 Santa competition   
+   Rank54: https://github.com/bigzhao/MPI-Hungarian-method
+   
+24. Kaggle 2017 Porto Seguro’s Safe Driver Prediction   
+   Rank131: https://bigzhao.github.io/2017/12/18/kaggle-silver/
 
-23. 第三届阿里云安全算法挑战赛   
+25. 第三届阿里云安全算法挑战赛   
    Rank1: https://github.com/poteman/Alibaba-3rd-Security-Algorithm-Challenge
 
-24. 2018dc-新网银行杯
+26. 2018dc-新网银行杯
    Rank3：https://github.com/Smilexuhc/Xingwangbankcup-top3  
    Rank4：https://github.com/TingNie/CreditForecast
 
