@@ -132,6 +132,7 @@ Data competition Top Solution 数据竞赛Top解决方案开源整理
 27. 2018 AI Challenger 全球AI挑战赛 - 细粒度用户评论情感分析
    Rank16：https://github.com/xueyouluo/fsauor2018
 
+
 ## 二、NLP：
 
 1. 2018 DC达观-文本智能处理挑战
