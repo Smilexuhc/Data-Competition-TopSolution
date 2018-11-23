@@ -61,7 +61,7 @@ Data competition Top Solution 数据竞赛Top解决方案开源整理
    Rank1：https://zhuanlan.zhihu.com/p/44755488?utm_source=qq&utm_medium=social&utm_oi=623925402599559168   
           https://mp.weixin.qq.com/s/Yix0xVp2SiqaAcuS6Q049g 
           
-8. AI全球挑战者大赛-违约用户风险预测  
+8. 智慧金融马上AI全球挑战者大赛-违约用户风险预测  
    Rank1：https://github.com/chenkkkk/User-loan-risk-prediction 
    
 9. 2016融360-用户贷款风险预测  
@@ -128,6 +128,10 @@ Data competition Top Solution 数据竞赛Top解决方案开源整理
 26. 2018dc-新网银行杯
    Rank3：https://github.com/Smilexuhc/Xingwangbankcup-top3  
    Rank4：https://github.com/TingNie/CreditForecast
+
+27. 2018 AI Challenger 全球AI挑战赛 - 细粒度用户评论情感分析
+   Rank16：https://github.com/xueyouluo/fsauor2018
+
 
 ## 二、NLP：
 
