@@ -140,6 +140,9 @@ Data competition Top Solution 数据竞赛Top解决方案开源整理
 29. 第二届 “智慧中国杯” 数据科学大赛，首发皇包车（HI GUIDES）精品旅行服务成单预测竞赛   
    Rank4: https://github.com/SunnyMarkLiu/Datacastle_Travel_Services_Predict   
    Rank?: https://github.com/zlxy9892/DC_hbc
+   
+30. 2018 ATEC 蚂蚁金服NLP智能客服比赛
+   Rank16：https://github.com/zle1992/atec
 
 
 ## 二、NLP：
