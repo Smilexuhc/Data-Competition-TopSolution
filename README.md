@@ -136,6 +136,7 @@ Data competition Top Solution 数据竞赛Top解决方案开源整理
 
 28. 2018 AI Challenger 全球AI挑战赛 - 细粒度用户评论情感分析
    Rank16：https://github.com/xueyouluo/fsauor2018
+   Rank17: https://github.com/BigHeartC/Al_challenger_2018_sentiment_analysis
    
 29. 第二届 “智慧中国杯” 数据科学大赛，首发皇包车（HI GUIDES）精品旅行服务成单预测竞赛   
    Rank4: https://github.com/SunnyMarkLiu/Datacastle_Travel_Services_Predict   
