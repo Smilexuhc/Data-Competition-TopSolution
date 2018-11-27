@@ -130,20 +130,23 @@ Data competition Top Solution 数据竞赛Top解决方案开源整理
 26. 第三届阿里云安全算法挑战赛   
    Rank1: https://github.com/poteman/Alibaba-3rd-Security-Algorithm-Challenge
 
-27. 2018dc-新网银行杯
+27. 2018dc-新网银行杯   
    Rank3：https://github.com/Smilexuhc/Xingwangbankcup-top3  
    Rank4：https://github.com/TingNie/CreditForecast
 
-28. 2018 AI Challenger 全球AI挑战赛 - 细粒度用户评论情感分析
-   Rank16：https://github.com/xueyouluo/fsauor2018
+28. 2018 AI Challenger 全球AI挑战赛 - 细粒度用户评论情感分析   
+   Rank16：https://github.com/xueyouluo/fsauor2018   
    Rank17: https://github.com/BigHeartC/Al_challenger_2018_sentiment_analysis
    
 29. 第二届 “智慧中国杯” 数据科学大赛，首发皇包车（HI GUIDES）精品旅行服务成单预测竞赛   
    Rank4: https://github.com/SunnyMarkLiu/Datacastle_Travel_Services_Predict   
    Rank?: https://github.com/zlxy9892/DC_hbc
    
-30. 2018 ATEC 蚂蚁金服NLP智能客服比赛
+30. 2018 ATEC 蚂蚁金服NLP智能客服比赛   
    Rank16：https://github.com/zle1992/atec
+
+31. DataCastle-城市治理大数据应用创意方案赛   
+   Rank1: https://github.com/poteman/DataCastle-Urban-governance-competition
 
 
 ## 二、NLP：
