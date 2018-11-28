@@ -144,8 +144,11 @@ Data competition Top Solution 数据竞赛Top解决方案开源整理
    
 30. 2018 ATEC 蚂蚁金服NLP智能客服比赛   
    Rank16：https://github.com/zle1992/atec
+   
+31. 2018 ATEC 蚂蚁金服NLP蚂蚁金服金融大脑赛题   
+   Rank18：https://github.com/ziweipolaris/atec2018-nlp
 
-31. DataCastle-城市治理大数据应用创意方案赛   
+32. DataCastle-城市治理大数据应用创意方案赛   
    Rank1: https://github.com/poteman/DataCastle-Urban-governance-competition
 
 
