@@ -38,118 +38,118 @@ Data competition Top Solution 数据竞赛Top解决方案开源整理
    Rank26: https://github.com/zsyandjyhouse/TencentAD_contest   
    Rank33: https://github.com/John-Yao/Tencent_Social_Ads2018   
    Rank69: https://github.com/BladeCoda/Tencent2018_Final_Phrase_Presto 
-   
+
 4. 2017腾讯广告算法大赛  
    Rank14: https://github.com/freelzy/Tencent_Social_Ads   
    Rank20: https://github.com/shenweichen/Tencent_Social_Ads2017_Mobile_App_pCVR   
-   
+
 5. 2018高校大数据挑战赛-快手活跃用户预测   
    Rank1： https://github.com/drop-out/RNN-Active-User-Forecast   
-           https://zhuanlan.zhihu.com/p/42622063     
+   ​        https://zhuanlan.zhihu.com/p/42622063     
    Rank4:  https://github.com/chantcalf/2018-Rank4-     
    Rank13(初赛 a榜rank2 b榜rank5): https://github.com/luoda888/2018-KUAISHOU-TSINGHUA-Top13-Solutions  
-                                  https://github.com/totoruo/KuaiShou2018-RANK13-RNN  
+   ​                               https://github.com/totoruo/KuaiShou2018-RANK13-RNN  
    Rank15: https://github.com/sunwantong/Kuaishou-Active-User     
    Rank20: https://github.com/bigzhao/Kuaishou_2018_rank20th     
    Rank28(初赛 a榜rank1 b榜rank2)：https://github.com/YangKing0834131/2018-KUAISHOU-TSINGHUA-Top28-Solutions-     
-                                  https://github.com/FNo0/2018-KUAISHOU-Top28  
+   ​                               https://github.com/FNo0/2018-KUAISHOU-Top28  
    Rank35：https://github.com/chizhu/kuaishou2018  
-   
+
 6. 2018JDATA 用户购买时间预测  
    Rank9：https://zhuanlan.zhihu.com/p/45141799 
-   
+
 7. 2018 DF风机叶片开裂预警  
    Rank2：https://github.com/SY575/DF-Early-warning-of-the-wind-power-system 
-   
+
 8. 2018 DF光伏发电量预测  
    Rank1：https://zhuanlan.zhihu.com/p/44755488?utm_source=qq&utm_medium=social&utm_oi=623925402599559168   
-          https://mp.weixin.qq.com/s/Yix0xVp2SiqaAcuS6Q049g 
-          
+   ​       https://mp.weixin.qq.com/s/Yix0xVp2SiqaAcuS6Q049g 
+
 9. 智慧金融马上AI全球挑战者大赛-违约用户风险预测  
    Rank1：https://github.com/chenkkkk/User-loan-risk-prediction 
-   
+
 10. 2016融360-用户贷款风险预测  
-   Rank7：https://github.com/hczheng/Rong360 
-   
+       Rank7：https://github.com/hczheng/Rong360 
+
 11. 2018 CCF-面向电信行业存量用户的智能套餐个性化匹配模型  
-   Rank1：https://github.com/PPshrimpGo/BDCI2018-ChinauUicom-1st-solution  
-   Rank2：https://github.com/PandasCute/2018-CCF-BDCI-China-Unicom-Research-Institute-top2  
-   Rank6：https://github.com/ZengHaihong/2018_CCF_BDCI_ChinaUnicom_Package_Match_Rank6
-          
+       Rank1：https://github.com/PPshrimpGo/BDCI2018-ChinauUicom-1st-solution  
+       Rank2：https://github.com/PandasCute/2018-CCF-BDCI-China-Unicom-Research-Institute-top2  
+       Rank6：https://github.com/ZengHaihong/2018_CCF_BDCI_ChinaUnicom_Package_Match_Rank6
+
 12. 2018 CCF-汽车领域ASC挑战赛  
-   Rank7: https://github.com/nlpjoe/CCF-BDCI-Automotive-Field-ASC-2018
+       Rank7: https://github.com/nlpjoe/CCF-BDCI-Automotive-Field-ASC-2018
 
 13. 2016 CCF-020优惠券使用预测  
-   Rank1: https://github.com/wepe/O2O-Coupon-Usage-Forecast 
-   
+       Rank1: https://github.com/wepe/O2O-Coupon-Usage-Forecast 
+
 14. 2016 ccf-农产品价格预测  
-   Rank2: https://github.com/xing89qs/CCF_Product   
-   Rank35: https://github.com/wqlin/ccf-price-prediction 
- 
+       Rank2: https://github.com/xing89qs/CCF_Product   
+       Rank35: https://github.com/wqlin/ccf-price-prediction 
+
 15. 2016 ccf-客户用电异常  
-   Rank4: https://github.com/AbnerYang/2016CCF-StateGrid 
-   
+       Rank4: https://github.com/AbnerYang/2016CCF-StateGrid 
+
 16. 2016 ccf-搜狗的用户画像比赛  
-   Rank1: https://github.com/hengchao0248/ccf2016_sougou   
-   Rank3: https://github.com/AbnerYang/2016CCF-SouGou   
-   Rank5: https://github.com/dhdsjy/2016_CCFsougou   
-          https://github.com/dhdsjy/2016_CCFsougou2   
-          https://github.com/prozhuchen/2016CCF-sougou   
-          https://github.com/coderSkyChen/2016CCF_BDCI_Sougou 
-          
+       Rank1: https://github.com/hengchao0248/ccf2016_sougou   
+       Rank3: https://github.com/AbnerYang/2016CCF-SouGou   
+       Rank5: https://github.com/dhdsjy/2016_CCFsougou   
+    ​      https://github.com/dhdsjy/2016_CCFsougou2   
+    ​      https://github.com/prozhuchen/2016CCF-sougou   
+    ​      https://github.com/coderSkyChen/2016CCF_BDCI_Sougou 
+
 17. 2016 ccf-联通的用户轨迹  
-   RankX: https://github.com/xuguanggen/2016CCF-unicom 
-   
+       RankX: https://github.com/xuguanggen/2016CCF-unicom 
+
 18. 2016 ccf-Human or Robots  
-   Rank6: https://github.com/pickou/ccf_human_or_robot 
-   
+       Rank6: https://github.com/pickou/ccf_human_or_robot 
+
 19. 菜鸟-需求预测与分仓规划  
-   Rank6:  https://github.com/wepe/CaiNiao-DemandForecast-StoragePlaning   
-   Rank10: https://github.com/xing89qs/TianChi_CaiNiao_Season2 
+       Rank6:  https://github.com/wepe/CaiNiao-DemandForecast-StoragePlaning   
+       Rank10: https://github.com/xing89qs/TianChi_CaiNiao_Season2 
 
 20. (Kaggle)2018 Data Science Bow   
-   Rank1:  https://www.kaggle.com/c/data-science-bowl-2018/discussion/54741       
-   Rank4:  https://www.kaggle.com/c/data-science-bowl-2018/discussion/55118 
+       Rank1:  https://www.kaggle.com/c/data-science-bowl-2018/discussion/54741       
+       Rank4:  https://www.kaggle.com/c/data-science-bowl-2018/discussion/55118 
 
 21. 2018对抗挑战优胜经验分享  
-   by snakers41: http://t.cn/RBMaq4y  
-   GitHub:http://t.cn/RBMlfBH
+       by snakers41: http://t.cn/RBMaq4y  
+       GitHub:http://t.cn/RBMlfBH
 
 22. Galaxy Zoo challenge   
-   http://benanne.github.io/2014/04/05/galaxy-zoo.html
+       http://benanne.github.io/2014/04/05/galaxy-zoo.html
 
 23. Kaggle Home Credit违约风险预测   
-   Rank1: http://t.cn/RFsoHgv
-   
+       Rank1: http://t.cn/RFsoHgv
+
 24. Kaggle 2017 Santa competition   
-   Rank54: https://github.com/bigzhao/MPI-Hungarian-method
-   
+       Rank54: https://github.com/bigzhao/MPI-Hungarian-method
+
 25. Kaggle 2017 Porto Seguro’s Safe Driver Prediction   
-   Rank131: https://bigzhao.github.io/2017/12/18/kaggle-silver/
+       Rank131: https://bigzhao.github.io/2017/12/18/kaggle-silver/
 
 26. 第三届阿里云安全算法挑战赛   
-   Rank1: https://github.com/poteman/Alibaba-3rd-Security-Algorithm-Challenge
+       Rank1: https://github.com/poteman/Alibaba-3rd-Security-Algorithm-Challenge
 
 27. 2018dc-新网银行杯   
-   Rank3：https://github.com/Smilexuhc/Xingwangbankcup-top3  
-   Rank4：https://github.com/TingNie/CreditForecast
+       Rank3：https://github.com/Smilexuhc/Xingwangbankcup-top3  
+       Rank4：https://github.com/TingNie/CreditForecast
 
 28. 2018 AI Challenger 全球AI挑战赛 - 细粒度用户评论情感分析   
-   Rank16：https://github.com/xueyouluo/fsauor2018   
-   Rank17: https://github.com/BigHeartC/Al_challenger_2018_sentiment_analysis
-   
+       Rank16：https://github.com/xueyouluo/fsauor2018   
+       Rank17: https://github.com/BigHeartC/Al_challenger_2018_sentiment_analysis
+
 29. 第二届 “智慧中国杯” 数据科学大赛，首发皇包车（HI GUIDES）精品旅行服务成单预测竞赛   
-   Rank4: https://github.com/SunnyMarkLiu/Datacastle_Travel_Services_Predict   
-   Rank?: https://github.com/zlxy9892/DC_hbc
-   
+       Rank4: https://github.com/SunnyMarkLiu/Datacastle_Travel_Services_Predict   
+       Rank?: https://github.com/zlxy9892/DC_hbc
+
 30. 2018 ATEC 蚂蚁金服NLP智能客服比赛   
-   Rank16：https://github.com/zle1992/atec
-   
+       Rank16：https://github.com/zle1992/atec
+
 31. 2018 ATEC 蚂蚁金服NLP蚂蚁金服金融大脑赛题   
-   Rank18：https://github.com/ziweipolaris/atec2018-nlp
+       Rank18：https://github.com/ziweipolaris/atec2018-nlp
 
 32. DataCastle-城市治理大数据应用创意方案赛   
-   Rank1: https://github.com/poteman/DataCastle-Urban-governance-competition
+       Rank1: https://github.com/poteman/DataCastle-Urban-governance-competition
 
 
 ## 二、NLP：
@@ -163,22 +163,22 @@ Data competition Top Solution 数据竞赛Top解决方案开源整理
    Rank11：https://github.com/TianyuZhuuu/DaGuan_TextClassification_Rank11  
    Rank18: https://github.com/nlpjoe/daguan-classify-2018       
    RankX: https://github.com/yanqiangmiffy/daguan
-   
+
 2. 智能客服问题相似度算法设计——第三届魔镜杯大赛  
    rank6 https://github.com/qrfaction/paipaidai  
    rank12 https://www.jianshu.com/p/827dd447daf9
-          https://github.com/LittletreeZou/Question-Pairs-Matching  
+   ​       https://github.com/LittletreeZou/Question-Pairs-Matching  
    Rank16：https://github.com/guoday/PaiPaiDai2018_rank16   
    Rank29: https://github.com/wangjiaxin24/daguan_NLP 
-          
+
 3. 2018JD Dialog Challenge 任务导向型对话系统挑战赛  
    Rank3: https://github.com/zengbin93/jddc_solution_4th
-   
+
 4. 2018CIKM AnalytiCup  – 阿里小蜜机器人跨语言短文本匹配算法竞赛  
    Rank2: https://github.com/zake7749/Closer   
    Rank12：https://github.com/Leputa/CIKM-AnalytiCup-2018   
    Rank18: https://github.com/VincentChen525/Tianchi/tree/master/CIKM%20AnalytiCup%202018
-   
+
 5. 路透社新闻数据集“深度”探索性分析(词向量/情感分析)        
    https://www.kaggle.com/hoonkeng/deep-eda-word-embeddings-sentiment-analysis/notebook
 
@@ -186,12 +186,12 @@ Data competition Top Solution 数据竞赛Top解决方案开源整理
    Rank1: http://www.dcjingsai.com/common/bbs/topicDetails.html?tid=2382   
    Rank2: https://github.com/bigzhao/Keyword_Extraction   
    Rank5: https://github.com/Dikea/ShenceCup.extract_keywords
-7.  知乎看山杯：  
-   Rank1：https://github.com/chenyuntc/PyTorchText  
-   Rank2：https://github.com/Magic-Bubble/Zhihu  
-   Rank6：https://github.com/yongyehuang/zhihu-text-classification
-   Rank9：https://github.com/coderSkyChen/zhihu_kanshan_cup_2017  
-   Rank21：https://github.com/zhaoyu87/zhihu  
+7. 知乎看山杯：  
+      Rank1：https://github.com/chenyuntc/PyTorchText  
+      Rank2：https://github.com/Magic-Bubble/Zhihu  
+      Rank6：https://github.com/yongyehuang/zhihu-text-classification
+      Rank9：https://github.com/coderSkyChen/zhihu_kanshan_cup_2017  
+      Rank21：https://github.com/zhaoyu87/zhihu  
 
 8. 2018 CCL 客服领域用户意图分类评测  
    Rank1：https://github.com/nlpjoe/2018-CCL-UIIMCS
@@ -203,46 +203,56 @@ Data competition Top Solution 数据竞赛Top解决方案开源整理
 1. Kaggle-TGS
    Rank1: http://t.cn/EzkDlOC  
    Rank4: http://t.cn/EzuvemA  
-          http://t.cn/EzuPvfp   
+   ​       http://t.cn/EzuPvfp   
    Rank9: http://t.cn/EznzvYv  
    Rank11:https://github.com/iasawseen/Kaggle-TGS-salt-solution
-   
+
    Rank15:https://github.com/adam9500370/Kaggle-TGS
    Rank22: http://t.cn/EzYkR6i  
    Rank56 https://github.com/Gary-Deeplearning/TGS-Salt
-   
+
 2. Kaggle Google地标检索   
    Rank1: http://t.cn/R1i7Xiy  
    Rank14： http://t.cn/R1nQriY
-   
-3.  Lyft感知挑战赛   
-   赛题： http://t.cn/RBtrJcE  
-   Rank4： http://t.cn/RBtrMdw  
-          http://t.cn/RBJnlug
-          
+
+3. Lyft感知挑战赛   
+      赛题： http://t.cn/RBtrJcE  
+      Rank4： http://t.cn/RBtrMdw  
+      ​      http://t.cn/RBJnlug
+
 4. (Kaggle)CVPR 2018 WAD视频分割  
    Rank2: http://t.cn/Ehp4Ggm
-   
-5.  Kaggle Google AI Open Images  
-   Rank15: http://t.cn/RF1jnis
-   
-6.  Quick, Draw! Kaggle Competition Starter Pack    
-    http://t.cn/EZAoZDM
-    
+
+5. Kaggle Google AI Open Images  
+      Rank15: http://t.cn/RF1jnis
+
+6. Quick, Draw! Kaggle Competition Starter Pack    
+   http://t.cn/EZAoZDM
+
 7. Kaggle植物幼苗图像分类挑战赛   
    Rank1: http://t.cn/RBssjf6
-   
+
 8. Kaggle Airbus Ship Detection Challenge (Kaggle卫星图像船舶检测比赛)   
    Rank8: https://github.com/SeuTao/Kaggle_Airbus2018_8th_code
-   
-9.kaggle RSNA Pneumonia Detection
+
+
+9. kaggle RSNA Pneumonia Detection
 
    Rank1:https://github.com/i-pan/kaggle-rsna18
    Rank2:https://github.com/SeuTao/Kaggle_TGS2018_4th_solution
    Rank3:https://github.com/pmcheng/rsna-pneumonia
    Rank6:https://github.com/pfnet-research/pfneumonia
    Rank10:https://github.com/alessonscap/rsna-challenge-2018
-   
+10. kaggle Carvana Image Masking Challenge
+
+	Rank3:https://github.com/lyakaap/Kaggle-Carvana-3rd-place-solution
+	
+11. kaggle Statoil/C-CORE Iceberg Classifier Challenge
+
+	Rank4: https://github.com/asydorchuk/kaggle/blob/master/statoil/README.md
+	
+	
+
 ### 四、大佬的Github：
 1. 植物 ：https://github.com/plantsgo 
 2. wepon ：https://github.com/wepe 
@@ -265,7 +275,7 @@ Data competition Top Solution 数据竞赛Top解决方案开源整理
 * Kaggle数据科学词汇表 http://t.cn/Rdx72Cn
 * Kaggle比赛优胜方案汇总 http://t.cn/Rdkj3Co
 * Kaggle比赛实战教程(Pandas, Matplotlib, XGBoost/Colab) http://t.cn/ReIJOX0   
-http://t.cn/ReIJOXK
+  http://t.cn/ReIJOXK
 * Kaggle看照片猜相机比赛心得分享 http://t.cn/Rkz5Q9y pdf:http://t.cn/Rkz5Q9L
 * Kaggle在线分类广告需求预测比赛优胜方案分享 http://t.cn/RFpQg9O
 * Kaggle | Winner Interview http://blog.kaggle.com/2018/09/14/pei-lien-chou/
@@ -283,12 +293,12 @@ http://t.cn/ReIJOXK
 
 【计算机视觉“小众”数据集集锦】《Rare Datasets for Computer Vision Every Machine Learning Expert Must Work With》 http://t.cn/EZE9Vb7
 
-   
+
 **PS：**
  特别感谢金老师对整理比赛开源已做出的贡献,特别是在2016年的ccf大赛中
  团队联系方式：  
-      Smile  qq:240485545  Email:smile.xuhc@gmail.com   
-      PUSH  qq:1471386635 Email:1471386635@qq.com   
-      dive2space qq: 1124361357 Email:dive2space@qq.com  
-      Jean_V  qq:2398963799  Email:jianwu925@qq.com
-      
+​      Smile  qq:240485545  Email:smile.xuhc@gmail.com   
+​      PUSH  qq:1471386635 Email:1471386635@qq.com   
+​      dive2space qq: 1124361357 Email:dive2space@qq.com  
+​      Jean_V  qq:2398963799  Email:jianwu925@qq.com
+​      
