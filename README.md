@@ -206,7 +206,7 @@ Data competition Top Solution 数据竞赛Top解决方案开源整理
    ​       http://t.cn/EzuPvfp   
    Rank9: http://t.cn/EznzvYv  
    Rank11:https://github.com/iasawseen/Kaggle-TGS-salt-solution
-
+   Rank14:https://github.com/lRomul/argus-tgs-salt
    Rank15:https://github.com/adam9500370/Kaggle-TGS
    Rank22: http://t.cn/EzYkR6i  
    Rank56 https://github.com/Gary-Deeplearning/TGS-Salt
@@ -234,6 +234,7 @@ Data competition Top Solution 数据竞赛Top解决方案开源整理
 
 8. Kaggle Airbus Ship Detection Challenge (Kaggle卫星图像船舶检测比赛)   
    Rank8: https://github.com/SeuTao/Kaggle_Airbus2018_8th_code
+   Rank21:https://github.com/pascal1129/kaggle_airbus_ship_detection
 
 
 9. kaggle RSNA Pneumonia Detection
@@ -244,7 +245,7 @@ Data competition Top Solution 数据竞赛Top解决方案开源整理
    Rank6:https://github.com/pfnet-research/pfneumonia
    Rank10:https://github.com/alessonscap/rsna-challenge-2018
 10. kaggle Carvana Image Masking Challenge
-
+	Rank1:https://github.com/asanakoy/kaggle_carvana_segmentation
 	Rank3:https://github.com/lyakaap/Kaggle-Carvana-3rd-place-solution
 	
 11. kaggle Statoil/C-CORE Iceberg Classifier Challenge
