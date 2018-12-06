@@ -151,6 +151,10 @@ Data competition Top Solution 数据竞赛Top解决方案开源整理
 32. DataCastle-城市治理大数据应用创意方案赛   
    Rank1: https://github.com/poteman/DataCastle-Urban-governance-competition
 
+33. 2017 摩拜杯算法挑战赛   
+   Rank3: https://github.com/Magic-Bubble/Mobike
+   
+
 
 ## 二、NLP：
 
