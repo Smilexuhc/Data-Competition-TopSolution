@@ -245,13 +245,21 @@ Data competition Top Solution 数据竞赛Top解决方案开源整理
    Rank6:https://github.com/pfnet-research/pfneumonia
    Rank10:https://github.com/alessonscap/rsna-challenge-2018
 10. kaggle Carvana Image Masking Challenge
-	Rank1:https://github.com/asanakoy/kaggle_carvana_segmentation
-	Rank3:https://github.com/lyakaap/Kaggle-Carvana-3rd-place-solution
+
+   Rank1:https://github.com/asanakoy/kaggle_carvana_segmentation
+   Rank3:https://github.com/lyakaap/Kaggle-Carvana-3rd-place-solution
 	
 11. kaggle Statoil/C-CORE Iceberg Classifier Challenge
 
-	Rank4: https://github.com/asydorchuk/kaggle/blob/master/statoil/README.md
+   Rank4: https://github.com/asydorchuk/kaggle/blob/master/statoil/README.md
 	
+12. kaggle 2018 Data Science Bowl
+	
+   Rank1: https://github.com/selimsef/dsb2018_topcoders
+   Rank2: https://github.com/jacobkie/2018DSB
+   Rank3: https://github.com/Lopezurrutia/DSB_2018
+   Rank4: https://github.com/pdima/kaggle_2018_data_science_bowl_solution
+   Rank5: https://github.com/mirzaevinom/data_science_bowl_2018
 	
 
 ### 四、大佬的Github：
