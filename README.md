@@ -154,6 +154,8 @@ Data competition Top Solution 数据竞赛Top解决方案开源整理
 33. Kaggle - Crowdflower Search Results Relevance   
    Rank1: https://github.com/ChenglongChen/Kaggle_CrowdFlower
 
+34. 第三届融360天机智能金融算法挑战赛 - 特征挖掘   
+   Rank1: https://github.com/xSupervisedLearning/Rong360_feature_mining_1st_solution
 
 
 ## 二、NLP：
