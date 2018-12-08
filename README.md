@@ -79,7 +79,9 @@ Data competition Top Solution 数据竞赛Top解决方案开源整理
 12. 2017 CCF-商场中精确定位用户所在店铺  
    Rank1：https://github.com/drop-out/Tianchi-Wifi-Positioning  
           
-13. 2018 CCF-汽车领域ASC挑战赛  
+
+13. 2018 CCF-汽车行业用户观点主题及情感识别ASC挑战赛  
+   Rank1: https://github.com/yilirin/BDCI_Car_2018  
    Rank7: https://github.com/nlpjoe/CCF-BDCI-Automotive-Field-ASC-2018
 
 14. 2016 CCF-020优惠券使用预测  
@@ -153,6 +155,16 @@ Data competition Top Solution 数据竞赛Top解决方案开源整理
 
 33. DataCastle-城市治理大数据应用创意方案赛   
    Rank1: https://github.com/poteman/DataCastle-Urban-governance-competition
+   
+33. Kaggle - Crowdflower Search Results Relevance   
+   Rank1: https://github.com/ChenglongChen/Kaggle_CrowdFlower
+
+34. 第三届融360天机智能金融算法挑战赛 - 特征挖掘   
+   Rank1: https://github.com/xSupervisedLearning/Rong360_feature_mining_1st_solution
+
+33. 2017 摩拜杯算法挑战赛   
+   Rank3: https://github.com/Magic-Bubble/Mobike
+   
 
 
 ## 二、NLP：
