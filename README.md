@@ -244,7 +244,8 @@ Data competition Top Solution 数据竞赛Top解决方案开源整理
    Rank1: http://t.cn/RBssjf6
    
 8. Kaggle Airbus Ship Detection Challenge (Kaggle卫星图像船舶检测比赛)   
-   Rank8: https://github.com/SeuTao/Kaggle_Airbus2018_8th_code
+   Rank8: https://github.com/SeuTao/Kaggle_Airbus2018_8th_code   
+   Rank21: https://github.com/pascal1129/kaggle_airbus_ship_detection
    
 9.kaggle RSNA Pneumonia Detection
 
