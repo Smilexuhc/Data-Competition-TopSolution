@@ -161,7 +161,9 @@ Data competition Top Solution 数据竞赛Top解决方案开源整理
 33. 2017 摩拜杯算法挑战赛   
    Rank3: https://github.com/Magic-Bubble/Mobike
    
-
+34. 2017 科赛网 中国平安前海征信“好信杯”金融风控大数据算法大赛   
+   Rank3: https://github.com/yzkang/QH_FInSight
+   
 
 ## 二、NLP：
 
