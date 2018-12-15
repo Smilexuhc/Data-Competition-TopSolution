@@ -164,6 +164,8 @@ Data competition Top Solution 数据竞赛Top解决方案开源整理
 35. DataFountain - 招商银行信用卡中心 消费金融场景下的用户购买预测   
    Rank1: https://github.com/sunwantong/China-Merchants-Bank-credit-card-Cente-User-purchase-forecast
    
+34. 天池糖尿病血糖预测比赛 精准医疗   
+   Rank24: https://github.com/xingyuezhiji/Diabetes
 
 
 ## 二、NLP：
@@ -212,6 +214,9 @@ Data competition Top Solution 数据竞赛Top解决方案开源整理
 
 9. 第二届搜狐内容识别大赛  
    Rank1：https://github.com/zhanzecheng/SOHU_competition
+
+10. 科赛 - 百度 PaddlePaddle AI 大赛——智能问答  
+   Rank3：https://github.com/312shan/rc_tf
 
 ### 三、CV：
 1. Kaggle-TGS
