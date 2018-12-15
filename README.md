@@ -160,6 +160,9 @@ Data competition Top Solution 数据竞赛Top解决方案开源整理
 
 33. 2017 摩拜杯算法挑战赛   
    Rank3: https://github.com/Magic-Bubble/Mobike
+
+35. DataFountain - 招商银行信用卡中心 消费金融场景下的用户购买预测   
+   Rank1: https://github.com/sunwantong/China-Merchants-Bank-credit-card-Cente-User-purchase-forecast
    
 
 
