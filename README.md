@@ -111,7 +111,7 @@ Data competition Top Solution 数据竞赛Top解决方案开源整理
 
 20. (Kaggle)2018 Data Science Bow   
    Rank1:  https://www.kaggle.com/c/data-science-bowl-2018/discussion/54741       
-   Rank4:  https://www.kaggle.com/c/data-science-bowl-2018/discussion/55118 
+   Rank4:  https://www.kaggle.com/c/data-science-bowl-2018/discussion/55118  & [Github](https://github.com/pdima/kaggle_2018_data_science_bowl_solution)
 
 21. 2018对抗挑战优胜经验分享  
    by snakers41: http://t.cn/RBMaq4y  
