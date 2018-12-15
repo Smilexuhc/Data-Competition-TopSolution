@@ -161,6 +161,8 @@ Data competition Top Solution 数据竞赛Top解决方案开源整理
 33. 2017 摩拜杯算法挑战赛   
    Rank3: https://github.com/Magic-Bubble/Mobike
    
+34. 天池糖尿病血糖预测比赛 精准医疗   
+   Rank24: https://github.com/xingyuezhiji/Diabetes
 
 
 ## 二、NLP：
@@ -209,6 +211,9 @@ Data competition Top Solution 数据竞赛Top解决方案开源整理
 
 9. 第二届搜狐内容识别大赛  
    Rank1：https://github.com/zhanzecheng/SOHU_competition
+
+10. 科赛 - 百度 PaddlePaddle AI 大赛——智能问答  
+   Rank3：https://github.com/312shan/rc_tf
 
 ### 三、CV：
 1. Kaggle-TGS
