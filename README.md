@@ -141,6 +141,7 @@ Data competition Top Solution 数据竞赛Top解决方案开源整理
    Rank4：https://github.com/TingNie/CreditForecast
 
 29. 2018 AI Challenger 全球AI挑战赛 - 细粒度用户评论情感分析   
+   Rank1：https://github.com/chenghuige/wenzheng   
    Rank16：https://github.com/xueyouluo/fsauor2018   
    Rank17: https://github.com/BigHeartC/Al_challenger_2018_sentiment_analysis
    
