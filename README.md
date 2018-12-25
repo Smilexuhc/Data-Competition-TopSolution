@@ -261,16 +261,21 @@ Data competition Top Solution 数据竞赛Top解决方案开源整理
    Rank8: https://github.com/SeuTao/Kaggle_Airbus2018_8th_code   
    Rank21: https://github.com/pascal1129/kaggle_airbus_ship_detection
    
-9.kaggle RSNA Pneumonia Detection   
+9. kaggle RSNA Pneumonia Detection   
    Rank1: https://github.com/i-pan/kaggle-rsna18   
    Rank2: https://github.com/SeuTao/Kaggle_TGS2018_4th_solution   
    Rank3: https://github.com/pmcheng/rsna-pneumonia   
    Rank6: https://github.com/pfnet-research/pfneumonia   
-   Rank10: https://github.com/alessonscap/rsna-challenge-2018
+   Rank10: https://github.com/alessonscap/rsna-challenge-2018   
    
 10. Kaggle PLAsTiCC Astronomical Classification Competition（PLAsTiCC 天文分类比赛）   
-   Rank4: https://github.com/aerdem4/kaggle-plasticc
+   Rank1: https://www.kaggle.com/c/PLAsTiCC-2018/discussion/75033   
+   Rank2: https://www.kaggle.com/c/PLAsTiCC-2018/discussion/75059   
+   Rank3: https://www.kaggle.com/c/PLAsTiCC-2018/discussion/75116 & https://www.kaggle.com/c/PLAsTiCC-2018/discussion/75131 & https://www.kaggle.com/c/PLAsTiCC-2018/discussion/75222   
+   Rank4: https://github.com/aerdem4/kaggle-plasticc   
+   Rank5: https://www.kaggle.com/c/PLAsTiCC-2018/discussion/75040   
    
+
 ### 四、大佬的Github：
 1. 植物 ：https://github.com/plantsgo 
 2. wepon ：https://github.com/wepe 
