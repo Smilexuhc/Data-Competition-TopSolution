@@ -194,6 +194,7 @@ Data competition Top Solution 数据竞赛Top解决方案开源整理
    Rank29: https://github.com/wangjiaxin24/daguan_NLP 
           
 3. 2018JD Dialog Challenge 任务导向型对话系统挑战赛  
+   Rank2: https://github.com/Dikea/Dialog-System-with-Task-Retrieval-and-Seq2seq  
    Rank3: https://github.com/zengbin93/jddc_solution_4th
    
 4. 2018CIKM AnalytiCup  – 阿里小蜜机器人跨语言短文本匹配算法竞赛  
