@@ -275,6 +275,9 @@ Data competition Top Solution 数据竞赛Top解决方案开源整理
    Rank4: https://github.com/aerdem4/kaggle-plasticc   
    Rank5: https://www.kaggle.com/c/PLAsTiCC-2018/discussion/75040   
    
+11. Kaggle Human Protein Atlas Image Classification Challenge（Kaggle 人类蛋白质图谱图像分类比赛）   
+   Rank3: https://github.com/pudae/kaggle-hpa   
+
 
 ### 四、大佬的Github：
 1. 植物 ：https://github.com/plantsgo 
