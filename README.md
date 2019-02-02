@@ -174,6 +174,10 @@ Data competition Top Solution 数据竞赛Top解决方案开源整理
    Rank24: https://github.com/xingyuezhiji/Diabetes
 
 
+35. 第一届西安交通大学人工智能实践大赛（2018AI实践大赛--图片文字识别）   
+   Rank1: https://github.com/yinchangchang/ocr_densenet
+
+
 ## 二、NLP：
 
 1. 2018 DC达观-文本智能处理挑战
