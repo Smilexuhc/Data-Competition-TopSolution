@@ -283,6 +283,8 @@ Data competition Top Solution 数据竞赛Top解决方案开源整理
 11. Kaggle Human Protein Atlas Image Classification Challenge（Kaggle 人类蛋白质图谱图像分类比赛）   
    Rank3: https://github.com/pudae/kaggle-hpa   
 
+12. SpaceNet Challenge Round 4: Off-Nadir Buildings（SpaceNet挑战卫星图片建筑物识别）   
+   Rank*: https://github.com/SpaceNetChallenge/SpaceNet_Off_Nadir_Solutions   
 
 ### 四、大佬的Github：
 1. 植物 ：https://github.com/plantsgo 
