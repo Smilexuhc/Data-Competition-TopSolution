@@ -158,24 +158,28 @@ Data competition Top Solution 数据竞赛Top解决方案开源整理
 33. DataCastle-城市治理大数据应用创意方案赛   
    Rank1: https://github.com/poteman/DataCastle-Urban-governance-competition
    
-33. Kaggle - Crowdflower Search Results Relevance   
+34. Kaggle - Crowdflower Search Results Relevance   
    Rank1: https://github.com/ChenglongChen/Kaggle_CrowdFlower
 
-34. 第三届融360天机智能金融算法挑战赛 - 特征挖掘   
+35. 第三届融360天机智能金融算法挑战赛 - 特征挖掘   
    Rank1: https://github.com/xSupervisedLearning/Rong360_feature_mining_1st_solution
 
-33. 2017 摩拜杯算法挑战赛   
+36. 2017 摩拜杯算法挑战赛   
    Rank3: https://github.com/Magic-Bubble/Mobike
 
-35. DataFountain - 招商银行信用卡中心 消费金融场景下的用户购买预测   
+37. DataFountain - 招商银行信用卡中心 消费金融场景下的用户购买预测   
    Rank1: https://github.com/sunwantong/China-Merchants-Bank-credit-card-Cente-User-purchase-forecast
    
-34. 天池糖尿病血糖预测比赛 精准医疗   
+38. 天池糖尿病血糖预测比赛 精准医疗   
    Rank24: https://github.com/xingyuezhiji/Diabetes
 
 
-35. 第一届西安交通大学人工智能实践大赛（2018AI实践大赛--图片文字识别）   
+39. 第一届西安交通大学人工智能实践大赛（2018AI实践大赛--图片文字识别）   
    Rank1: https://github.com/yinchangchang/ocr_densenet
+
+
+40. 2019 KaggleDays Paris offline competition（Kaggle产品销售额预测比赛优胜方案）   
+   Rank1: https://github.com/mxbi/kaggledays-paris
 
 
 ## 二、NLP：
