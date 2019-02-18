@@ -229,6 +229,11 @@ Data competition Top Solution 数据竞赛Top解决方案开源整理
 10. 科赛 - 百度 PaddlePaddle AI 大赛——智能问答  
    Rank3：https://github.com/312shan/rc_tf
 
+11. 2018 kaggle quora insincere questions classification
+   Rank1: https://www.kaggle.com/c/quora-insincere-questions-classification/discussion/80568
+   Rank13: https://mp.weixin.qq.com/s/DD-BOtPbGCXvxfFxL-qOgg
+   Rank153: https://github.com/jetou/kaggle-qiqc
+
 ### 三、CV：
 1. Kaggle-TGS
    Rank1: http://t.cn/EzkDlOC  
@@ -236,7 +241,6 @@ Data competition Top Solution 数据竞赛Top解决方案开源整理
           http://t.cn/EzuPvfp   
    Rank9: http://t.cn/EznzvYv  
    Rank11:https://github.com/iasawseen/Kaggle-TGS-salt-solution
-   
    Rank15:https://github.com/adam9500370/Kaggle-TGS
    Rank22: http://t.cn/EzYkR6i  
    Rank56 https://github.com/Gary-Deeplearning/TGS-Salt
