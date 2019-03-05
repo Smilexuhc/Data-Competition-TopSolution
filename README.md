@@ -286,6 +286,13 @@ Data competition Top Solution 数据竞赛Top解决方案开源整理
 12. SpaceNet Challenge Round 4: Off-Nadir Buildings（SpaceNet挑战卫星图片建筑物识别）   
    Rank*: https://github.com/SpaceNetChallenge/SpaceNet_Off_Nadir_Solutions   
 
+13. Kaggle Humpback Whale Identification Challenge（Kaggle座头鲸识别比赛）   
+   Rank1: https://github.com/earhian/Humpback-Whale-Identification-1st-   
+   Rank7: https://medium.com/@ducha.aiki/thanks-radek-7th-place-solution-to-hwi-2019-competition-738624e4c885   
+   
+
+   
+
 ### 四、大佬的Github：
 1. 植物 ：https://github.com/plantsgo 
 2. wepon ：https://github.com/wepe 
