@@ -1,8 +1,9 @@
+
 Data competition Top Solution 数据竞赛Top解决方案开源整理
   --
 持续更新中
-欢迎大家一起参加
-
+欢迎大家一起参加  
+[![Badge](https://img.shields.io/badge/link-996.icu-%23FF4D5B.svg?style=flat-square)](https://996.icu/#/en_US)
 ## 一、数据竞赛：
 
 1. 2018科大讯飞AI营销算法大赛  
