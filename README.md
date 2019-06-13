@@ -182,6 +182,9 @@ Data competition Top Solution 数据竞赛Top解决方案开源整理
 40. 2019 KaggleDays Paris offline competition（Kaggle产品销售额预测比赛优胜方案）   
    Rank1: https://github.com/mxbi/kaggledays-paris
 
+41. Kaggle iMaterialist (Fashion) 2019 at FGVC6   
+   Rank1: https://github.com/amirassov/kaggle-imaterialist
+
 
 ## 二、NLP：
 
