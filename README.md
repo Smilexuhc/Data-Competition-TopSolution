@@ -181,6 +181,10 @@ Data competition Top Solution 数据竞赛Top解决方案开源整理
 
 40. 2019 KaggleDays Paris offline competition（Kaggle产品销售额预测比赛优胜方案）   
    Rank1: https://github.com/mxbi/kaggledays-paris
+   
+41. 2019 Kaggle Freesound Audio Tagging   
+   Rank1: https://github.com/qrfaction/1st-Freesound-Audio-Tagging-2019   
+
 
 
 ## 二、NLP：
