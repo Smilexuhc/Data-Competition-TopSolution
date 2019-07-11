@@ -186,6 +186,9 @@ Data competition Top Solution 数据竞赛Top解决方案开源整理
    Rank1: https://github.com/qrfaction/1st-Freesound-Audio-Tagging-2019   
 
 
+41. Kaggle iMaterialist (Fashion) 2019 at FGVC6   
+   Rank1: https://github.com/amirassov/kaggle-imaterialist
+
 
 ## 二、NLP：
 
