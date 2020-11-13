@@ -50,7 +50,7 @@ Data competition Top Solution 数据竞赛Top解决方案开源整理
    Rank1: https://github.com/zhengye1995/datafountain_siweituxin_autodriver_det
 
 15. 2019 安全AI挑战者计划第二期 - ImageNet图像分类对抗攻击  
-   Rank1: https://drive.google.com/open?id=1Up1fV-PaiHin3xSqXicsP9yyc1dWUD47
+   Rank1: https://drive.google.com/open?id=1Up1fV-PaiHin3xSqXicsP9yyc1dWUD47  
    Rank2: https://github.com/IDKiro/Attack-ImageNet  
    Rank3: https://github.com/Equationliu/Attack-ImageNet
 
