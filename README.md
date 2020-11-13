@@ -12,7 +12,7 @@ Data competition Top Solution 数据竞赛Top解决方案开源整理
 2. 2019 CCF 云计算时代的大数据查询分析优化   
    Rank1: https://github.com/hezuojiao/bigdata_race
 
-3. 2019 CCF 多人种人脸识别 
+3. 2019 CCF 多人种人脸识别   
    Rank1: https://github.com/themostnewone/2019ccf
 
 4. 2019 CCF 三角形图计算算法设计及性能优化   
@@ -60,42 +60,42 @@ Data competition Top Solution 数据竞赛Top解决方案开源整理
 17. 2019 华为账号用户人口属性预测  
    Rank14: https://github.com/WeavingWong/DigiX_HuaWei_Population_Age_Attribution_Predict
 
-18. 第四届“魔镜杯”数据应用大赛
-   Rank2: https://github.com/LibraM9/ppd_mirror
-   Baseline1: https://github.com/zzz333za/ppd
+18. 第四届“魔镜杯”数据应用大赛  
+   Rank2: https://github.com/LibraM9/ppd_mirror  
+   Baseline1: https://github.com/zzz333za/ppd  
    Baseline2: https://github.com/vinklibrary/ppd_mojing4
 
 19. 2019 “创青春·交子杯”新网银行高校金融科技挑战赛  
-   Rank1: https://github.com/TimeChi/Lip_Reading_Competition
-   Rank6: https://github.com/liuzhejun/XWbank_LipReading
+   Rank1: https://github.com/TimeChi/Lip_Reading_Competition  
+   Rank6: https://github.com/liuzhejun/XWbank_LipReading  
 
-20. 2019 国能日新第二届光伏功率预测赛
+20. 2019 国能日新第二届光伏功率预测赛  
    Rank25: https://github.com/jsnuwjl/Photovoltaic_power  
 
-21. 2019 “雅典娜杯”数据挖掘大赛邀请赛
-   Rank14: https://github.com/shaobo76/ydn2019
-   Rank17: https://github.com/Travisgogogo/2019-ABC-Athena
+21. 2019 “雅典娜杯”数据挖掘大赛邀请赛  
+   Rank14: https://github.com/shaobo76/ydn2019  
+   Rank17: https://github.com/Travisgogogo/2019-ABC-Athena  
 
-22. 2019 厦门国际银行“数创金融杯”数据建模大赛  
-   Rank6: https://github.com/yanqiangmiffy/Data-Finance-Cup
+22. 2019 厦门国际银行“数创金融杯”数据建模大赛    
+   Rank6: https://github.com/yanqiangmiffy/Data-Finance-Cup  
 
-23. 2019 Urban Region Function Classification
+23. 2019 Urban Region Function Classification  
    Rank2: https://github.com/zhuqunxi/Urban-Region-Function-Classification
 
-24. 2019 短视频内容理解与推荐竞赛  
+24. 2019 短视频内容理解与推荐竞赛    
    Rank8: https://www.zhuanzhi.ai/document/57000873027e2910fd452f42c90b2104
 
-25. 2019 DigSci 科学数据挖掘大赛  
-   Rank1: https://zhuanlan.zhihu.com/p/88664963  
-   Rank2: https://zhuanlan.zhihu.com/p/88257675
+25. 2019 DigSci 科学数据挖掘大赛    
+   Rank1: https://zhuanlan.zhihu.com/p/88664963    
+   Rank2: https://zhuanlan.zhihu.com/p/88257675  
 
-26. 2018科大讯飞AI营销算法大赛  
-   Rank1：https://zhuanlan.zhihu.com/p/47807544  
-   Rank2：https://github.com/infturing/kdxf  
-   Rank21：https://github.com/Michaelhuazhang/-AI21-
+26. 2018科大讯飞AI营销算法大赛    
+   Rank1：https://zhuanlan.zhihu.com/p/47807544    
+   Rank2：https://github.com/infturing/kdxf    
+   Rank21：https://github.com/Michaelhuazhang/-AI21-  
 
-27. 2018 IJCAI 阿里妈妈搜索广告转化预测  
-   Rank1：https://github.com/plantsgo/ijcai-2018   
+27. 2018 IJCAI 阿里妈妈搜索广告转化预测    
+   Rank1：https://github.com/plantsgo/ijcai-2018     
    Rank2：https://github.com/YouChouNoBB/ijcai-18-top2-single-mole-solution   
    https://blog.csdnnet/Bryan__/article/details/80600189  
    Rank3: https://github.com/luoda888/2018-IJCAI-top3   
