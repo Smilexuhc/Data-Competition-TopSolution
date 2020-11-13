@@ -6,12 +6,95 @@ Data competition Top Solution 数据竞赛Top解决方案开源整理
 [![Badge](https://img.shields.io/badge/link-996.icu-%23FF4D5B.svg?style=flat-square)](https://996.icu/#/en_US)
 ## 一、数据竞赛：
 
-1. 2018科大讯飞AI营销算法大赛  
+1. 2019 CCF 基于OCR的身份证要素提取  
+   Rank1: https://github.com/Mingtzge/2019-CCF-BDCI-OCR-MCZJ-OCR-IdentificationIDElement
+
+2. 2019 CCF 云计算时代的大数据查询分析优化   
+   Rank1: https://github.com/hezuojiao/bigdata_race
+
+3. 2019 CCF 多人种人脸识别 
+   Rank1: https://github.com/themostnewone/2019ccf
+
+4. 2019 CCF 三角形图计算算法设计及性能优化   
+   Rank1: https://github.com/YangWuuu/CCF_BDCI_2019_TRICOUNT
+
+5. 2019 CCF 离散制造过程中典型工件的质量符合率预测  
+   Rank1: https://github.com/CcIsHandsome/-TOP1-
+
+6. 2019 CCF 乘用车细分市场销量预测  
+   Rank1: https://github.com/cxq80803716/2019-CCF-BDCI-Car_sales
+
+7. 2019 CCF 金融信息负面及主体判定  
+   Rank1: https://github.com/xiong666/ccf_financial_negative
+
+8. 2019 CCF 视频版权检测算法  
+   Rank1: https://github.com/landlee001/Video-infringement-detection
+
+9. 2019 CCF “技术需求”与“技术成果”项目之间关联度计算模型  
+   Rank1: https://github.com/Makaixin/Correlation-between-requirements-and-achievements
+
+10. 2019 智能盘点—钢筋数量AI识别  
+   Rank1: https://github.com/HarleysZhang/detect_steel_number
+
+11. 2019 混凝土泵车砼活塞故障预警  
+   Rank1: https://github.com/pinlank/DCIC_Failure-Prediction-of-Concrete-Piston-for-Concrete-Pump-Vehicles_1st
+
+12. 2019 消费者人群画像—信用智能评分  
+   Rank1: https://github.com/C-rawler/DCIC-2019-Credit-intelligence-score-2th-Place  
+   Rank2: https://github.com/xy0210/DCIC-2019-China-Mobile
+
+13. 2019 汽车论坛消费者用车体验内容的判别与标注  
+   Rank1: https://github.com/w5688414/car-forum-customer
+
+14. 2019 第五届“四维图新”杯创新大赛  
+   Rank1: https://github.com/zhengye1995/datafountain_siweituxin_autodriver_det
+
+15. 2019 安全AI挑战者计划第二期 - ImageNet图像分类对抗攻击  
+   Rank1: https://drive.google.com/open?id=1Up1fV-PaiHin3xSqXicsP9yyc1dWUD47
+   Rank2: https://github.com/IDKiro/Attack-ImageNet  
+   Rank3: https://github.com/Equationliu/Attack-ImageNet
+
+16. 2019 "合肥高新杯"心电人机智能大赛  
+   Rank1: https://github.com/RandomWalk-xzq/Hefei_ECG_TOP1  
+
+17. 2019 华为账号用户人口属性预测  
+   Rank14: https://github.com/WeavingWong/DigiX_HuaWei_Population_Age_Attribution_Predict
+
+18. 第四届“魔镜杯”数据应用大赛
+   Rank2: https://github.com/LibraM9/ppd_mirror
+   Baseline1: https://github.com/zzz333za/ppd
+   Baseline2: https://github.com/vinklibrary/ppd_mojing4
+
+19. 2019 “创青春·交子杯”新网银行高校金融科技挑战赛  
+   Rank1: https://github.com/TimeChi/Lip_Reading_Competition
+   Rank6: https://github.com/liuzhejun/XWbank_LipReading
+
+20. 2019 国能日新第二届光伏功率预测赛
+   Rank25: https://github.com/jsnuwjl/Photovoltaic_power  
+
+21. 2019 “雅典娜杯”数据挖掘大赛邀请赛
+   Rank14: https://github.com/shaobo76/ydn2019
+   Rank17: https://github.com/Travisgogogo/2019-ABC-Athena
+
+22. 2019 厦门国际银行“数创金融杯”数据建模大赛  
+   Rank6: https://github.com/yanqiangmiffy/Data-Finance-Cup
+
+23. 2019 Urban Region Function Classification
+   Rank2: https://github.com/zhuqunxi/Urban-Region-Function-Classification
+
+24. 2019 短视频内容理解与推荐竞赛  
+   Rank8: https://www.zhuanzhi.ai/document/57000873027e2910fd452f42c90b2104
+
+25. 2019 DigSci 科学数据挖掘大赛  
+   Rank1: https://zhuanlan.zhihu.com/p/88664963  
+   Rank2: https://zhuanlan.zhihu.com/p/88257675
+
+26. 2018科大讯飞AI营销算法大赛  
    Rank1：https://zhuanlan.zhihu.com/p/47807544  
    Rank2：https://github.com/infturing/kdxf  
    Rank21：https://github.com/Michaelhuazhang/-AI21-
 
-2. 2018 IJCAI 阿里妈妈搜索广告转化预测  
+27. 2018 IJCAI 阿里妈妈搜索广告转化预测  
    Rank1：https://github.com/plantsgo/ijcai-2018   
    Rank2：https://github.com/YouChouNoBB/ijcai-18-top2-single-mole-solution   
    https://blog.csdnnet/Bryan__/article/details/80600189  
@@ -27,7 +110,7 @@ Data competition Top Solution 数据竞赛Top解决方案开源整理
    Rank81: https://github.com/wzp123456/IJCAI_18   
    Rank94: https://github.com/Yangtze121/-IJCAI-18- 
 
-3. 2018腾讯广告算法大赛  
+28. 2018腾讯广告算法大赛  
    Rank3: https://github.com/DiligentPanda/Tencent_Ads_Algo_2018   
    rank6: https://github.com/nzc/tencent-contest   
    Rank7: https://github.com/guoday/Tencent2018_Lookalike_Rank7th   
@@ -40,11 +123,11 @@ Data competition Top Solution 数据竞赛Top解决方案开源整理
    Rank33: https://github.com/John-Yao/Tencent_Social_Ads2018   
    Rank69: https://github.com/BladeCoda/Tencent2018_Final_Phrase_Presto 
    
-4. 2017腾讯广告算法大赛  
+29. 2017腾讯广告算法大赛  
    Rank14: https://github.com/freelzy/Tencent_Social_Ads   
    Rank20: https://github.com/shenweichen/Tencent_Social_Ads2017_Mobile_App_pCVR   
    
-5. 2018高校大数据挑战赛-快手活跃用户预测   
+30. 2018高校大数据挑战赛-快手活跃用户预测   
    Rank1： https://github.com/drop-out/RNN-Active-User-Forecast   
            https://zhuanlan.zhihu.com/p/42622063     
    Rank4:  https://github.com/chantcalf/2018-Rank4-     
@@ -56,47 +139,47 @@ Data competition Top Solution 数据竞赛Top解决方案开源整理
                                   https://github.com/FNo0/2018-KUAISHOU-Top28  
    Rank35：https://github.com/chizhu/kuaishou2018  
    
-6. 2018JDATA 用户购买时间预测  
+31. 2018JDATA 用户购买时间预测  
    Rank9：https://zhuanlan.zhihu.com/p/45141799 
    
-7. 2018 DF风机叶片开裂预警  
+32. 2018 DF风机叶片开裂预警  
    Rank2：https://github.com/SY575/DF-Early-warning-of-the-wind-power-system 
    
-8. 2018 DF光伏发电量预测  
+33. 2018 DF光伏发电量预测  
    Rank1：https://zhuanlan.zhihu.com/p/44755488?utm_source=qq&utm_medium=social&utm_oi=623925402599559168   
           https://mp.weixin.qq.com/s/Yix0xVp2SiqaAcuS6Q049g 
           
-9. 智慧金融马上AI全球挑战者大赛-违约用户风险预测  
+34. 智慧金融马上AI全球挑战者大赛-违约用户风险预测  
    Rank1：https://github.com/chenkkkk/User-loan-risk-prediction 
    
-10. 2016融360-用户贷款风险预测  
+35. 2016融360-用户贷款风险预测  
    Rank7：https://github.com/hczheng/Rong360 
    
-11. 2018 CCF-面向电信行业存量用户的智能套餐个性化匹配模型  
+36. 2018 CCF-面向电信行业存量用户的智能套餐个性化匹配模型  
    Rank1：https://github.com/PPshrimpGo/BDCI2018-ChinauUicom-1st-solution  
    Rank2：https://github.com/PandasCute/2018-CCF-BDCI-China-Unicom-Research-Institute-top2  
    Rank4：https://github.com/jinchenyu/2018_CCF_BDCI_ChinaUicom_rank4_solution  
    Rank6：https://github.com/ZengHaihong/2018_CCF_BDCI_ChinaUnicom_Package_Match_Rank6
    
-12. 2017 CCF-商场中精确定位用户所在店铺  
+37. 2017 CCF-商场中精确定位用户所在店铺  
    Rank1：https://github.com/drop-out/Tianchi-Wifi-Positioning  
           
 
-13. 2018 CCF-汽车行业用户观点主题及情感识别ASC挑战赛  
+38. 2018 CCF-汽车行业用户观点主题及情感识别ASC挑战赛  
    Rank1: https://github.com/yilirin/BDCI_Car_2018  
    Rank7: https://github.com/nlpjoe/CCF-BDCI-Automotive-Field-ASC-2018
 
-14. 2016 CCF-020优惠券使用预测  
+39. 2016 CCF-020优惠券使用预测  
    Rank1: https://github.com/wepe/O2O-Coupon-Usage-Forecast 
    
-15. 2016 ccf-农产品价格预测  
+40. 2016 ccf-农产品价格预测  
    Rank2: https://github.com/xing89qs/CCF_Product   
    Rank35: https://github.com/wqlin/ccf-price-prediction 
  
-16. 2016 ccf-客户用电异常  
+41. 2016 ccf-客户用电异常  
    Rank4: https://github.com/AbnerYang/2016CCF-StateGrid 
    
-17. 2016 ccf-搜狗的用户画像比赛  
+42. 2016 ccf-搜狗的用户画像比赛  
    Rank1: https://github.com/hengchao0248/ccf2016_sougou   
    Rank3: https://github.com/AbnerYang/2016CCF-SouGou   
    Rank5: https://github.com/dhdsjy/2016_CCFsougou   
@@ -104,89 +187,89 @@ Data competition Top Solution 数据竞赛Top解决方案开源整理
           https://github.com/prozhuchen/2016CCF-sougou   
           https://github.com/coderSkyChen/2016CCF_BDCI_Sougou 
           
-18. 2016 ccf-联通的用户轨迹  
+43. 2016 ccf-联通的用户轨迹  
    RankX: https://github.com/xuguanggen/2016CCF-unicom 
    
-19. 2016 ccf-Human or Robots  
+44. 2016 ccf-Human or Robots  
    Rank6: https://github.com/pickou/ccf_human_or_robot 
    
-20. 菜鸟-需求预测与分仓规划  
+45. 菜鸟-需求预测与分仓规划  
    Rank6:  https://github.com/wepe/CaiNiao-DemandForecast-StoragePlaning   
    Rank10: https://github.com/xing89qs/TianChi_CaiNiao_Season2 
 
-21. (Kaggle)2018 Data Science Bow   
+46. (Kaggle)2018 Data Science Bow   
    Rank1:  https://www.kaggle.com/c/data-science-bowl-2018/discussion/54741       
    Rank4:  https://www.kaggle.com/c/data-science-bowl-2018/discussion/55118  & [Github](https://github.com/pdima/kaggle_2018_data_science_bowl_solution)
 
-22. 2018对抗挑战优胜经验分享  
+47. 2018对抗挑战优胜经验分享  
    by snakers41: http://t.cn/RBMaq4y  
    GitHub:http://t.cn/RBMlfBH
 
-23. Galaxy Zoo challenge   
+48. Galaxy Zoo challenge   
    http://benanne.github.io/2014/04/05/galaxy-zoo.html
 
-24. Kaggle Home Credit违约风险预测   
+49. Kaggle Home Credit违约风险预测   
    Rank1: http://t.cn/RFsoHgv
    
-25. Kaggle 2017 Santa competition   
+50. Kaggle 2017 Santa competition   
    Rank54: https://github.com/bigzhao/MPI-Hungarian-method
    
-26. Kaggle 2017 Porto Seguro’s Safe Driver Prediction   
+51. Kaggle 2017 Porto Seguro’s Safe Driver Prediction   
    Rank131: https://bigzhao.github.io/2017/12/18/kaggle-silver/
 
-27. 第三届阿里云安全算法挑战赛   
+52. 第三届阿里云安全算法挑战赛   
    Rank1: https://github.com/poteman/Alibaba-3rd-Security-Algorithm-Challenge
 
-28. 2018dc-新网银行杯   
+53. 2018dc-新网银行杯   
    Rank3：https://github.com/Smilexuhc/Xingwangbankcup-top3  
    Rank4：https://github.com/TingNie/CreditForecast
 
-29. 2018 AI Challenger 全球AI挑战赛 - 细粒度用户评论情感分析   
+54. 2018 AI Challenger 全球AI挑战赛 - 细粒度用户评论情感分析   
    Rank1：https://github.com/chenghuige/wenzheng   
    Rank16：https://github.com/xueyouluo/fsauor2018   
    Rank17: https://github.com/BigHeartC/Al_challenger_2018_sentiment_analysis
    
-30. 第二届 “智慧中国杯” 数据科学大赛，首发皇包车（HI GUIDES）精品旅行服务成单预测竞赛   
+55. 第二届 “智慧中国杯” 数据科学大赛，首发皇包车（HI GUIDES）精品旅行服务成单预测竞赛   
    Rank4: https://github.com/SunnyMarkLiu/Datacastle_Travel_Services_Predict   
    Rank?: https://github.com/zlxy9892/DC_hbc
    
-31. 2018 ATEC 蚂蚁金服NLP智能客服比赛   
+56. 2018 ATEC 蚂蚁金服NLP智能客服比赛   
    Rank16：https://github.com/zle1992/atec
    
-32. 2018 ATEC 蚂蚁金服NLP蚂蚁金服金融大脑赛题   
+57. 2018 ATEC 蚂蚁金服NLP蚂蚁金服金融大脑赛题   
    Rank18：https://github.com/ziweipolaris/atec2018-nlp
 
-33. DataCastle-城市治理大数据应用创意方案赛   
+58. DataCastle-城市治理大数据应用创意方案赛   
    Rank1: https://github.com/poteman/DataCastle-Urban-governance-competition
    
-34. Kaggle - Crowdflower Search Results Relevance   
+59. Kaggle - Crowdflower Search Results Relevance   
    Rank1: https://github.com/ChenglongChen/Kaggle_CrowdFlower
 
-35. 第三届融360天机智能金融算法挑战赛 - 特征挖掘   
+60. 第三届融360天机智能金融算法挑战赛 - 特征挖掘   
    Rank1: https://github.com/xSupervisedLearning/Rong360_feature_mining_1st_solution
 
-36. 2017 摩拜杯算法挑战赛   
+61. 2017 摩拜杯算法挑战赛   
    Rank3: https://github.com/Magic-Bubble/Mobike
 
-37. DataFountain - 招商银行信用卡中心 消费金融场景下的用户购买预测   
+62. DataFountain - 招商银行信用卡中心 消费金融场景下的用户购买预测   
    Rank1: https://github.com/sunwantong/China-Merchants-Bank-credit-card-Cente-User-purchase-forecast
    
-38. 天池糖尿病血糖预测比赛 精准医疗   
+63. 天池糖尿病血糖预测比赛 精准医疗   
    Rank24: https://github.com/xingyuezhiji/Diabetes
 
 
-39. 第一届西安交通大学人工智能实践大赛（2018AI实践大赛--图片文字识别）   
+64. 第一届西安交通大学人工智能实践大赛（2018AI实践大赛--图片文字识别）   
    Rank1: https://github.com/yinchangchang/ocr_densenet
 
 
-40. 2019 KaggleDays Paris offline competition（Kaggle产品销售额预测比赛优胜方案）   
+65. 2019 KaggleDays Paris offline competition（Kaggle产品销售额预测比赛优胜方案）   
    Rank1: https://github.com/mxbi/kaggledays-paris
    
-41. 2019 Kaggle Freesound Audio Tagging   
+66. 2019 Kaggle Freesound Audio Tagging   
    Rank1: https://github.com/qrfaction/1st-Freesound-Audio-Tagging-2019   
 
 
-41. Kaggle iMaterialist (Fashion) 2019 at FGVC6   
+67. Kaggle iMaterialist (Fashion) 2019 at FGVC6   
    Rank1: https://github.com/amirassov/kaggle-imaterialist
 
 
